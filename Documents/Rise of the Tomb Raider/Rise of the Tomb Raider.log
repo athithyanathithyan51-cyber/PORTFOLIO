@@ -1,0 +1,825 @@
+20:11:53:419 (00005468) > [Startup] Rise of the Tomb Raider
+20:11:53:419 (00005468) > [Startup] ==============
+20:11:53:419 (00005468) > [Startup] 
+20:11:53:419 (00005468) > [Startup] Build: v1.0 build 1027.0_64
+20:11:53:419 (00005468) > [Startup] Windows 10.0 (build 26200)
+20:11:53:419 (00005468) > [Startup] Game directory: C:\Users\athit\OneDrive\Documents\Rise of the Tomb Raider\
+20:11:53:419 (00005468) > [Startup] 
+20:11:53:419 (00005468) > [Startup] Memory statistics:
+20:11:53:419 (00005468) > [Startup]   Total RAM = 15.7 GB (16071 MB)
+20:11:53:419 (00005468) > [Startup]   Avail RAM = 8.7 GB (8894 MB)
+20:11:53:419 (00005468) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+20:11:53:419 (00005468) > [Startup]   Avail virtual memory = 131064.8 GB (134210322 MB)
+20:11:53:419 (00005468) > [Startup] 
+20:11:53:419 (00005468) > [NxApp] PreInit
+20:11:53:420 (00005468) > [Epic] Initializing Epic SDK.
+20:11:53:483 (00005468) > [Epic] Initialized. Setting Logging Callback ...
+20:11:53:483 (00005468) > [Epic] Logging Callback Set
+20:11:53:483 (00005468) > [Epic] Creating platform.
+20:11:53:917 (00005468) > [Epic] LogEOSOverlay: Overlay library loaded, version ++EOSSDK+Release-Overlay-CL-43206577
+20:11:53:917 (00005468) > [Epic] LogEOSOverlay: Beginning dxgi factory detour
+20:11:53:917 (00005468) > [Epic] LogEOSOverlay: Factory detour complete
+20:11:53:917 (00005468) > [Epic] LogEOSOverlay: Beginning swap chain detour
+20:11:53:917 (00005468) > [Epic] LogEOSOverlay: Attempting to create swap chain using D3D11
+20:11:53:917 (00005468) > [Epic] LogEOSOverlay: Successfully created swap chain using D3D11 with feature level b000
+20:11:53:917 (00005468) > [Epic] LogEOSOverlay: Swapchain detour complete
+20:11:53:917 (00005468) > [Epic] LogEOSOverlay: Overlay loaded and initialized
+20:11:53:957 (00005468) > [Epic] LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started with the correct launcher if you intend to use it.
+20:11:53:960 (00005468) > [Epic] Platform created.
+20:11:53:960 (00005468) > [SwapChain] Initializing...
+20:11:53:960 (00005468) > [DXGI] Initializing...
+20:11:53:961 (00005468) > [DXGI] Created DXGIFactory1
+20:11:53:961 (00005468) > [DXGI] Successfully initialized.
+20:11:53:961 (00005468) > [Render] Enumerating adapters:
+20:11:53:962 (00005468) > [Render] 	Adapter 0:
+20:11:53:962 (00005468) > [Monitor] 		Description             : NVIDIA GeForce RTX 2050
+20:11:53:962 (00005468) > [Monitor] 		Vendor                  : nVidia (10de)
+20:11:53:962 (00005468) > [Monitor] 		Device                  : 25ad
+20:11:53:962 (00005468) > [Monitor] 		Sub system              : a5541558
+20:11:53:962 (00005468) > [Monitor] 		Revision                : 161
+20:11:53:962 (00005468) > [Monitor] 		Dedicated Video Memory  : 3977 MB
+20:11:53:962 (00005468) > [Monitor] 		Dedicated System Memory : 0000 MB
+20:11:53:962 (00005468) > [Monitor] 		Shared System Memory    : 8035 MB
+20:11:53:962 (00005468) > [Monitor] 
+20:11:53:962 (00005468) > [Render] Loading NVAPI...
+20:11:53:975 (00005468) > [Render] NVidia 3D Vision NvAPI_Stereo_IsEnabled error.
+20:11:53:975 (00005468) > [Render] Done loading NVAPI
+20:11:53:975 (00005468) > [Render] 	Adapter 1:
+20:11:53:975 (00005468) > [Monitor] 		Description             : Intel(R) UHD Graphics
+20:11:53:975 (00005468) > [Monitor] 		Vendor                  : Intel (8086)
+20:11:53:975 (00005468) > [Monitor] 		Device                  : 46a3
+20:11:53:975 (00005468) > [Monitor] 		Sub system              : a5541558
+20:11:53:975 (00005468) > [Monitor] 		Revision                : 12
+20:11:53:975 (00005468) > [Monitor] 		Dedicated Video Memory  : 0128 MB
+20:11:53:975 (00005468) > [Monitor] 		Dedicated System Memory : 0000 MB
+20:11:53:975 (00005468) > [Monitor] 		Shared System Memory    : 8035 MB
+20:11:53:975 (00005468) > [Monitor] 
+20:11:53:976 (00005468) > [Render] 	Adapter 2:
+20:11:53:976 (00005468) > [Monitor] 		Description             : Microsoft Basic Render Driver
+20:11:53:976 (00005468) > [Monitor] 		Vendor                  : Unknown (1414)
+20:11:53:976 (00005468) > [Monitor] 		Device                  : 8c
+20:11:53:976 (00005468) > [Monitor] 		Sub system              : 0
+20:11:53:976 (00005468) > [Monitor] 		Revision                : 0
+20:11:53:976 (00005468) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+20:11:53:976 (00005468) > [Monitor] 		Dedicated System Memory : 0000 MB
+20:11:53:976 (00005468) > [Monitor] 		Shared System Memory    : 8035 MB
+20:11:53:976 (00005468) > [Monitor] 
+20:11:53:976 (00005468) > [Render] Enumerating monitors:
+20:11:53:976 (00005468) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 1.78
+20:11:53:976 (00005468) > [Render] 
+20:11:54:148 (00005468) > [Render] NVidia 3D Vision NvAPI_Stereo_SetDriverMode error.
+20:11:54:148 (00005468) > [Render] NVidia 3D Vision is not enabled.
+20:11:54:148 (00005468) > [Render] Enumerating Display Modes:
+20:11:54:148 (00005468) > [Render] Querying NVAPI for Surround modes
+20:11:54:149 (00005468) > [Render] NvAPI_DISP_GetGDIPrimaryDisplayId returned NVAPI_NVIDIA_DEVICE_NOT_FOUND (fffffffa)
+
+20:11:55:369 (00005468) > [NxDLSS] DLSS support test, code = 0x00000001, info: NVSDK_NGX_Result_Success
+20:11:56:452 (00005468) > [Render] 	Monitor '1 (NVIDIA GeForce RTX 2050(1))' (0000000000010001):
+20:11:56:452 (00005468) > [Render] 		- Mode  0 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode  1 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode  2 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode  3 : 1280 x  600 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode  4 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode  5 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode  6 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode  7 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode  8 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode  9 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode 10 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode 11 : 1400 x 1050 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode 12 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode 13 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode 14 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode 15 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode 16 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode 17 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode 18 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode 19 : 1280 x  600 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode 20 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode 21 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode 22 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode 23 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode 24 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode 25 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode 26 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode 27 : 1400 x 1050 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode 28 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode 29 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode 30 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 		- Mode 31 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+20:11:56:452 (00005468) > [Render] 
+20:11:56:452 (00005468) > [SwapChain] Successfully initialized.
+20:11:56:452 (00005468) > [NxApp] PreInit successful.
+20:11:56:452 (00005468) > [Main] Current directory: C:\Program Files\Epic Games\RiseoftheTombRaider
+20:11:56:452 (00005468) > [Main] Working directory: C:\Program Files\Epic Games\RiseoftheTombRaider
+20:11:56:556 (00005468) > [MultiCore] CPU count: logical = 12
+20:11:56:928 (00005468) > [Main] Epic Language: '(null)'
+20:11:56:928 (00005468) > [Main] Settings: Text Language: 'en-us' | VO Language: 'en-us' | Steam Game Language 'en-us'
+20:11:56:948 (00005468) > [Main] Using: Text Language: 'en-us' | VO Language: 'en-us'
+20:11:57:648 (00005468) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+20:12:04:279 (00005468) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+20:12:04:280 (00005468) > [D3D] Initializing...
+20:12:04:280 (00005468) > [D3D] Loaded d3d11.dll
+20:12:04:280 (00005468) > [D3D] Obtained D3D11CreateDevice address
+20:12:04:280 (00005468) > [D3D] Successfully initialized
+20:12:04:309 (00005468) > [D3D] Max supported feature level: 11.0
+20:12:04:309 (00008356) > [D3D] Creating D3D Device...
+20:12:04:309 (00008356) > [SwapChain] Creating D3D on adapter '1 (NVIDIA GeForce RTX 2050(1))'.
+20:12:04:378 (00008356) > [SwapChain] Created D3D device with feature level 11.0.
+20:12:04:379 (00008356) > [D3D] Successfully created.
+20:12:04:379 (00005468) > [NxApp] Querying GPU Driver Info...
+20:12:04:380 (00005468) > [NxApp] Enumerating available display adapters:
+20:12:04:384 (00005468) > [NxApp] 		NVIDIA GeForce RTX 2050 (active)
+20:12:04:385 (00005468) > [NxApp] 		Intel(R) UHD Graphics
+20:12:04:386 (00005468) > [NxApp] Successfully found GPU Driver Info
+20:12:04:386 (00005468) > [NxApp] Driver Desc: NVIDIA GeForce RTX 2050
+20:12:04:386 (00005468) > [NxApp] Driver Version: 31.0.15.3753
+20:12:04:386 (00005468) > [Settings] DirectX Version: 11
+20:12:04:386 (00005468) > [Settings] Window mode:
+20:12:04:386 (00005468) > [Settings] 	Fullscreen: 1
+20:12:04:386 (00005468) > [Settings] 	Excl.Fullscreen: 0
+20:12:04:386 (00005468) > [Settings] 	Monitor: 0
+20:12:04:386 (00005468) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 1920 h: 1080
+20:12:04:386 (00005468) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 1920 h: 1080
+20:12:04:386 (00005468) > [Settings] 		Aspect Ratio: 1.773196 (Pixel Aspect Ratio: 1.002584)
+20:12:04:386 (00005468) > [Settings] Fullscreen display mode:
+20:12:04:386 (00005468) > [Settings] 	Display mode: 1920x1080@60
+20:12:04:386 (00005468) > [Settings] 		VSync: 1, TripleBuffer: 0
+20:12:04:386 (00005468) > [Settings] 		MultiMonitor: 0
+20:12:04:386 (00005468) > [Settings] 		BezelCorrected: 0
+20:12:04:386 (00005468) > [Settings] 		Stereoscopic3D: 0
+20:12:04:386 (00005468) > [Settings] Window settings:
+20:12:04:386 (00005468) > [Settings] 	Window rect: x: 240 y: 135 w: 1440 h: 810
+20:12:04:386 (00005468) > [Settings] 	User window: w: 1440 h: 810
+20:12:04:386 (00005468) > [Settings] 	Window maximized: 0
+20:12:04:386 (00005468) > [Settings] Graphics Options:
+20:12:04:386 (00005468) > [Settings] 	TextureQuality: 2, TextureFiltering: 4, ShadowQuality: 2
+20:12:04:386 (00005468) > [Settings] 	AO: 1, DOF: 1, FXAA: 0, SMAA: 0, SSAA: 0, Bloom: 1
+20:12:04:386 (00005468) > [Settings] 	MotionBlur: 1 VignetteBlur: 1 Tessellation: 1
+20:12:04:386 (00005468) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 1 HairQuality: 1
+20:12:04:386 (00005468) > [Settings] 	Specular Reflection Quality: 0
+20:12:04:386 (00005468) > [Settings] 	FoliageQuality: 1
+20:12:04:386 (00005468) > [Settings] 	FOVCorrection :1.000000
+20:12:04:386 (00005468) > [Settings] 	LevelOfDetail: 2
+20:12:04:386 (00005468) > [Settings] 	StereoSeparation: 0.022000
+20:12:04:386 (00005468) > [Settings] 	StereoPopOut: 5.000000
+20:12:04:386 (00005468) > [Settings] 	StereoNearSeparationMultiplier :0.350000
+20:12:04:386 (00005468) > [NxApp] Creating window...
+20:12:04:390 (00009780) > [GameWindow] UpdateState bVisible true
+20:12:04:488 (00009780) > [Input] Keyboard language: "English (United States)" (id: 1033)
+20:12:04:488 (00009780) > [Input] Keyboard physical layout: "India" (id: 00004009)
+20:12:04:490 (00009780) > [Input] Human Input Device  "HID-compliant vendor-defined device"   product 257 vendor 10248 version 777 usage 1 usagePage 65280
+20:12:04:491 (00009780) > [Input] Human Input Device  "HID-compliant wireless radio controls"   product 2590 vendor 32903 version 512 usage 12 usagePage 1
+20:12:04:491 (00009780) > [Input] Human Input Device  "Microsoft Input Configuration Device"   product 0 vendor 0 version 0 usage 0 usagePage 0
+20:12:04:491 (00009780) > [Input] Human Input Device  "HID-compliant touch pad"   product 257 vendor 10248 version 777 usage 5 usagePage 13
+20:12:04:491 (00009780) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 2 sampleRate 0 horizontalWheel no
+20:12:04:491 (00009780) > [Input] Keyboard            "Standard PS/2 Keyboard"   type 4 subType 0 mode 1 function 12 indicators 3 total 101
+20:12:04:496 (00005468) > [NxApp] Window created.
+20:12:04:496 (00005468) > [NxApp] Initializing swapchain...
+20:12:04:496 (00008356) > [SwapChain] Creating...
+20:12:04:496 (00008356) > [Render] NVidia 3D Vision NvAPI_Stereo_SetDriverMode error.
+20:12:04:496 (00008356) > [Render] NVidia 3D Vision is not enabled.
+20:12:04:497 (00008356) > [VR] VR Released.
+20:12:04:569 (00008356) > [DXGI] Created swapchain.
+20:12:04:570 (00008356) > [SwapChain] Gamma correction is enabled.
+20:12:04:570 (00008356) > [SwapChain] Successfully created.
+20:12:04:586 (00005468) > [NxApp] Swapchain initialized
+20:12:04:586 (00005468) > [NxApp] Initializing renderer...
+20:12:04:588 (00005468) > [NxApp] Renderer initialized
+20:12:04:588 (00005468) > [Main] Starting Tomb Raider v1.0 build 1027.0_64
+20:12:04:661 (00005468) > [D3D] [Render] PCDX11DeviceManager constructor start
+20:12:04:661 (00005468) > [D3D] D3D Adapter Information:
+20:12:04:661 (00005468) > [D3D] Adapter Description: NVIDIA GeForce RTX 2050
+20:12:04:661 (00005468) > [D3D] VendorID: 10de
+20:12:04:661 (00005468) > [D3D] DeviceID: 25ad
+20:12:04:662 (00005468) > [D3D] Revision: a1
+20:12:04:662 (00005468) > [D3D] NVidia hardware detected. Attemping to load NVAPI...
+20:12:04:662 (00005468) > [D3D] NVAPI loaded succesfully.
+20:12:04:663 (00005468) > [D3D] NVAPI Depth Bounds Test supported.
+20:12:04:836 (00005468) > [VXGI] VXGI has been succesfully initialized
+20:12:04:858 (00005468) > [HBAO+] HBAO+ Context creation succeeded
+20:12:05:800 (00005468) > [D3D] D3D Adapter Information:
+20:12:05:800 (00005468) > [D3D] Adapter Description: Intel(R) UHD Graphics
+20:12:05:800 (00005468) > [D3D] VendorID: 8086
+20:12:05:800 (00005468) > [D3D] DeviceID: 46a3
+20:12:05:800 (00005468) > [D3D] Revision: c
+20:12:05:832 (00005468) > [VXGI] VXGI has been succesfully initialized
+20:12:05:835 (00005468) > [HBAO+] HBAO+ Context creation succeeded
+20:12:05:855 (00005468) > [D3D] [Render] Adapter I has no outputs!
+20:12:05:855 (00005468) > [D3D] D3D Adapter Information:
+20:12:05:855 (00005468) > [D3D] Adapter Description: Microsoft Basic Render Driver
+20:12:05:855 (00005468) > [D3D] VendorID: 1414
+20:12:05:855 (00005468) > [D3D] DeviceID: 8c
+20:12:05:855 (00005468) > [D3D] Revision: 0
+20:12:05:893 (00005468) > [VXGI] VXGI has been succesfully initialized
+20:12:05:896 (00005468) > [HBAO+] HBAO+ Context creation succeeded
+20:12:05:918 (00005468) > [D3D] [Render] Adapter M has no outputs!
+20:12:05:918 (00005468) > [D3D] [Render] PCDX11DeviceManager constructor end
+20:12:05:918 (00005468) > [D3D] D3D Adapter Information:
+20:12:05:918 (00005468) > [D3D] Adapter Description: NVIDIA GeForce RTX 2050
+20:12:05:918 (00005468) > [D3D] VendorID: 10de
+20:12:05:918 (00005468) > [D3D] DeviceID: 25ad
+20:12:05:918 (00005468) > [D3D] Revision: a1
+20:12:05:918 (00005468) > [D3D] NVidia hardware detected. Attemping to load NVAPI...
+20:12:05:919 (00005468) > [D3D] NVAPI loaded succesfully.
+20:12:05:919 (00005468) > [D3D] NVAPI Depth Bounds Test supported.
+20:12:05:952 (00005468) > [VXGI] VXGI has been succesfully initialized
+20:12:05:956 (00005468) > [HBAO+] HBAO+ Context creation succeeded
+20:12:05:982 (00005468) > [D3D] PCDX11SwapChain::Resize(1920, 1080, False)
+20:12:05:982 (00005468) > [D3D] PCDX11SwapChain::Resize no change
+20:12:06:523 (00005468) > [Sound] Initalizing audio...
+20:12:06:701 (00005468) > [Sound] Audio device found. FMOD reports 1 driver(s).
+20:12:06:701 (00005468) > [Sound] Audio Driver Name: Speakers (Realtek(R) Audio)
+20:12:06:701 (00005468) > [Sound] Speaker Mode: 6
+20:13:10:579 (00005468) > [Input] Assigned gamepad -1 to player 0
+20:13:11:542 (00005468) > [Epic] LogEOSOverlay: Probing swap chain to determine device version
+20:13:11:542 (00005468) > [Epic] LogEOSOverlay: Probe complete, determined: D3D11
+20:13:11:542 (00005468) > [Epic] LogEOSOverlay: Window subclass attached to 0000000000040724
+20:13:11:542 (00005468) > [Epic] LogEOSOverlay: Creating overlay widget manager
+20:13:11:542 (00005468) > [Epic] LogEOSOverlay: Launching render process
+20:13:11:542 (00005468) > [Epic] LogEOSOverlay: Overlay ready. Firing 1 OnReady handlers
+20:13:11:542 (00005468) > [Epic] LogEOSOverlay: Tick thread starting...
+20:13:11:542 (00005468) > [Epic] LogEOSOverlay: Enabling shared texture updates
+20:13:11:542 (00005468) > [Epic] LogEOS: Large tick time detected 77.5814
+20:13:11:542 (00005468) > [Epic] LogEOS: Updating Platform SDK Config, Time: 77.581352
+20:13:12:143 (00005468) > [Epic] LogEOSAuth: No valid auth for userid = d41...624
+20:13:12:143 (00005468) > [Epic] LogEOSAuth: No valid auth for userid = d41...624
+20:13:12:143 (00005468) > [Epic] LogEOSAuth: No valid auth for userid = d41...624
+20:13:12:143 (00005468) > [Epic] LogEOSAuth: No valid auth for userid = d41...624
+20:13:12:174 (00005468) > [Epic] LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+20:13:12:175 (00005468) > [Epic] LogEOSP2P: UpdateConfiguration RtcCertificateMaxLifetimeMilliseconds not specified, using default value 10800000
+20:13:12:175 (00005468) > [Epic] LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+20:13:12:175 (00005468) > [Epic] LogEOSP2P: UpdateConfiguration RtcCertificateMaxLifetimeMilliseconds not specified, using default value 10800000
+20:13:13:253 (00005468) > [Epic] LogEOS: SDK Config Platform Update Request Successful, Time: 79.282669
+20:13:13:261 (00005468) > [Epic] LogEOSAnalytics: Start Session (User: ...)
+20:13:13:261 (00005468) > [Epic] LogEOSAnalytics: Record Event: SDKOverlayComponent.Init <Redacted>
+20:13:13:261 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.OverlayLoaded <Redacted>
+20:13:13:261 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.FactoryDetour <Redacted>
+20:13:13:261 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.SwapchainDetour <Redacted>
+20:13:13:261 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.ObserveBrowserStatus <Redacted>
+20:13:13:261 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.RegisterKeyListener <Redacted>
+20:13:13:261 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.GraphicsDeviceCreated <Redacted>
+20:13:13:261 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.GraphicsDeviceCreated <Redacted>
+20:13:13:261 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.OverlayInitialized <Redacted>
+20:13:13:261 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.LaunchRenderProcess <Redacted>
+20:13:13:261 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.RegisterJSBindings <Redacted>
+20:13:13:261 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.SwapChainCreated <Redacted>
+20:13:13:261 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:13:13:261 (00005468) > [Epic] WARNING: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+20:13:13:264 (00005468) > [Epic] LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+20:13:13:264 (00005468) > [Epic] LogEOSP2P: UpdateConfiguration RtcCertificateMaxLifetimeMilliseconds not specified, using default value 10800000
+20:13:13:265 (00005468) > [Epic] LogEOS: Updating Product SDK Config, Time: 79.292000
+20:13:13:265 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.RegisterJSBindings <Redacted>
+20:13:13:604 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:13:13:612 (00005468) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+20:13:13:636 (00005468) > [Epic] LogEOSAnalytics: Start Session (User: ...)
+20:13:13:934 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:13:13:938 (00005468) > [Epic] LogEOS: SDK Config Product Update Request Successful, Time: 79.973160
+20:13:13:943 (00005468) > [Epic] LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+20:13:13:943 (00005468) > [Epic] LogEOSP2P: UpdateConfiguration RtcCertificateMaxLifetimeMilliseconds not specified, using default value 10800000
+20:13:13:943 (00005468) > [Epic] LogEOS: SDK Config Data - Watermark: -227189215
+20:13:13:943 (00005468) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 79.973160, Update Interval: 319.135101
+20:13:14:369 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:13:14:372 (00005468) > [Epic] LogEOSAuth: UserAuth Success
+20:13:14:372 (00005468) > [Epic] LogEOSAuth: NewUserToken: User ClientId: xyz...DIR AccountId: d41...624 Access[Expires: 2025.10.11-20.54.11 Remaining: 7200.22] Refresh[Expires: 2025-10-12T02:54:11.216Z Remaining: 28800.22] State: Valid
+20:13:14:399 (00005468) > [Epic] LogEOSAuth: GenerateUserAuth success
+20:13:14:701 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:13:14:704 (00005468) > [Epic] LogEOSAuth: login/queryuserinfo success
+20:13:14:705 (00005468) > [Epic] LogEOSUI: Social Overlay: 'leaderboards' feature disabled by overlay.
+20:13:14:706 (00005468) > [Epic] Main user login status changed
+20:13:14:706 (00005468) > [Epic] LogEOSAuth: Login Tasks Complete: 0
+20:13:14:765 (00005468) > [Epic] LogEOSUI: Social Overlay: Loading: <Redacted>
+20:13:14:765 (00005468) > [Epic] LogEOSUI: Social Overlay: Initital DisplaySettings{ Visible(FALSE) ExclusiveInput(FALSE) HitBox(unset) }
+20:13:14:765 (00005468) > [Epic] LogEOSOverlay: Overlay loading <Redacted> in instance 2632822021328
+20:13:14:765 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.LoadURL <Redacted>
+20:13:14:799 (00005468) > [Epic] LogEOSOverlay: LoadURL result received. [Success=1, BrowserID=1]
+20:13:14:799 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.RenderProcess.ConnectBrowserAndRenderProcesses <Redacted>
+20:13:14:799 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.RenderProcess.LoadURL <Redacted>
+20:13:14:799 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.LoadURLResult <Redacted>
+20:13:14:799 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.RenderProcess.BrowserCreated <Redacted>
+20:13:14:834 (00005468) > [Epic] LogEOSOverlay: Browser status 0 received for browser 1
+20:13:14:834 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.BrowserStatus <Redacted>
+20:13:14:903 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:13:15:103 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:13:15:135 (00005468) > [Epic] LogEOSMessaging: Attempting connection to Stomp. LocalUserId=[000...c87] Url=[<Redacted>]
+20:13:15:400 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:13:15:404 (00005468) > [Epic] LogEOSP2P: Applying updated RTC Configuration
+20:13:15:504 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:13:15:600 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:13:15:766 (00005468) > [Epic] LogEOSUI: Social Overlay: Achievements refreshing player data for (d41...624) [state: 0, force: player? false, definitions? false].
+20:13:15:766 (00005468) > [Epic] LogEOSUI: Social Overlay: Achievements data incomplete, starting next refresh for (d41...624).
+20:13:15:766 (00005468) > [Epic] LogEOSUI: Social Overlay: Achievements refreshing definition data for (d41...624) [state: 2, force: player? false, definitions? false].
+20:13:15:770 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.RenderProcess.JavascriptContextCreated <Redacted>
+20:13:16:949 (00005468) > [Epic] LogEOSOverlay: Browser status 1 received for browser 1
+20:13:16:949 (00005468) > [Epic] LogEOSUI: Social Overlay: Initial setup of friends overlay: EOS_Success
+20:13:16:949 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.RenderProcess.FrameLoadEnd <Redacted>
+20:13:16:949 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.BrowserStatus <Redacted>
+20:13:17:015 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+20:13:17:015 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+20:13:17:016 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+20:13:17:016 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+20:13:17:016 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+20:13:17:016 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+20:13:17:050 (00005468) > [Epic] LogEOSMessaging: Succesfully connected to Stomp. LocalUserId=[000...c87]
+20:13:17:215 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+20:13:17:215 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+20:13:17:220 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+20:13:17:281 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+20:13:17:416 (00005468) > [Epic] LogEOSMessaging: Stomp subscribed to topic /3976af33daf443f5b08526d7d5ffb86a/account/00023bb3848a44b5b3e95ad9dedabc87
+20:13:17:562 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:13:17:567 (00005468) > [Epic] LogEOSUI: Social Overlay: Achievements populated for (d41...624).
+20:13:17:747 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+20:13:17:747 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+20:13:17:747 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+20:13:17:747 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+20:13:17:786 (00005468) > [Epic] LogEOSPresence: Updating Presence to Online. LocalUserId=[d41...624] RichText=[]
+20:13:17:814 (00005468) > [Epic] LogEOSUI: Social Overlay: HandleDisplayUpdateIntent
+20:13:17:814 (00005468) > [Epic] LogEOSUI: Social Overlay: DisplayUpdateIntent{ Visible(TRUE) ExclusiveInput(FALSE) HitBox([(0,0)-(0,0)]) }
+20:13:17:816 (00005468) > [Epic] LogEOSUI: Social Overlay: Achievements refreshing player data for (d41...624) [state: 1, force: player? false, definitions? false].
+20:13:17:816 (00005468) > [Epic] LogEOSUI: Social Overlay: Achievements data incomplete, starting next refresh for (d41...624).
+20:13:17:816 (00005468) > [Epic] LogEOSUI: Social Overlay: Achievements refreshing definition data for (d41...624) [state: 2, force: player? false, definitions? false].
+20:13:17:818 (00005468) > [Epic] LogEOSUI: Social Overlay: Achievements populated for (d41...624).
+20:13:17:818 (00005468) > [Epic] LogEOSOverlay: Automatically giving keyboard focus to webview that just became visible [InstanceId=2632822021328, BrowserId=1]
+20:13:17:818 (00005468) > [Epic] LogEOSUI: Social Overlay: New DisplaySettings{ Visible(TRUE) ExclusiveInput(FALSE) HitBox([(0,0)-(0,0)]) }
+20:13:17:818 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+20:13:17:818 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.SetDisplaySettings <Redacted>
+20:13:17:818 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+20:13:17:843 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+20:13:17:848 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+20:13:17:948 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+20:13:17:948 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+20:13:17:959 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+20:13:17:959 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+20:13:17:997 (00005468) > [Epic] LogEOSUI: Social Overlay: HandleDisplayUpdateIntent
+20:13:17:997 (00005468) > [Epic] LogEOSUI: Social Overlay: DisplayUpdateIntent{ Visible(TRUE) ExclusiveInput(FALSE) HitBox([(1092,16)-(1536,111)]) }
+20:13:17:997 (00005468) > [Epic] LogEOSUI: Social Overlay: New DisplaySettings{ Visible(TRUE) ExclusiveInput(FALSE) HitBox([(1092,16)-(1536,111)]) }
+20:13:17:997 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+20:13:17:997 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.SetDisplaySettings <Redacted>
+20:13:17:997 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+20:13:18:015 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+20:13:18:015 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+20:13:18:018 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+20:13:18:047 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+20:13:18:147 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:13:18:148 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:13:18:347 (00005468) > [Epic] LogEOSOverlay: Received new texture handle. [Type=0, InstanceId=2632822021328, BrowserId=1, TabId=0, Handle=0000000000000ED8, Duplicated=00000000000036C0]
+20:13:18:347 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.InitialTextureReceived <Redacted>
+20:13:19:676 (00014816) > [DLSS] Uninitialised to initialised for node 0
+20:13:20:631 (00005468) > [Menu] UiMenuStateSquareEnixMembers::OnEnter: bFromStartupFlow=1, HasSEMBeenHandled=1, bIsOnline=1
+20:13:23:560 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+20:13:23:560 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+20:13:23:593 (00005468) > [Epic] LogEOSUI: Social Overlay: HandleDisplayUpdateIntent
+20:13:23:593 (00005468) > [Epic] LogEOSUI: Social Overlay: DisplayUpdateIntent{ Visible(FALSE) ExclusiveInput(FALSE) HitBox([(1092,16)-(1536,111)]) }
+20:13:23:593 (00005468) > [Epic] LogEOSUI: Social Overlay: New DisplaySettings{ Visible(FALSE) ExclusiveInput(FALSE) HitBox([(1092,16)-(1536,111)]) }
+20:13:23:593 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+20:13:23:593 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.SetDisplaySettings <Redacted>
+20:13:23:593 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+20:13:23:610 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+20:13:23:626 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+20:13:26:378 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+20:13:26:378 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+20:13:32:858 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:13:43:892 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:13:54:449 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:14:05:134 (00005468) > [Epic] WARNING: LogEOS: Error response received from backend. ServiceName=[StatsAchievements], OperationName=[UnlockPlayerAchievements], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[com.epicgames.stats.achievement_not_found], NumericErrorCode=[UNSET], ErrorMessage=[Achievement definition not found], CorrId=[EOS-upfZd314MkCoVxTXXr8DJw-etyf_o2UeU6E1C6Fa4IeMg-Fpl2IsdxTUy4hWshylhPaQ]
+20:14:05:134 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:14:05:142 (00005468) > [Epic] WARNING: LogEOSAchievements: Failed to unlock achievements. Error=EOS_UnexpectedError
+20:14:05:142 (00005468) > [Epic] [EOS SDK] Achievements - Unlock Achievements Error: EOS_UnexpectedError
+20:14:05:178 (00005468) > [Epic] WARNING: LogEOS: Error response received from backend. ServiceName=[StatsAchievements], OperationName=[UnlockPlayerAchievements], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[com.epicgames.stats.achievement_not_found], NumericErrorCode=[UNSET], ErrorMessage=[Achievement definition not found], CorrId=[EOS-upfZd314MkCoVxTXXr8DJw-etyf_o2UeU6E1C6Fa4IeMg-439AGbq1tka1e8RlzYVe8w]
+20:14:05:178 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:14:05:201 (00005468) > [Epic] WARNING: LogEOSAchievements: Failed to unlock achievements. Error=EOS_UnexpectedError
+20:14:05:201 (00005468) > [Epic] [EOS SDK] Achievements - Unlock Achievements Error: EOS_UnexpectedError
+20:14:07:594 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:14:07:614 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:14:07:659 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:14:08:410 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:14:13:258 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:14:13:258 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:14:13:623 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:14:13:623 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:14:14:374 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:14:14:374 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:14:14:723 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:14:14:741 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:14:15:506 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:14:15:506 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:14:15:609 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:14:17:788 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:14:18:159 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:14:43:911 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:15:14:729 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:15:15:021 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:15:15:038 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:15:53:718 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:15:54:319 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:16:15:038 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:16:15:476 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:16:15:500 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:16:53:721 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:17:06:846 (00005468) > [Epic] WARNING: LogEOS: Error response received from backend. ServiceName=[StatsAchievements], OperationName=[UnlockPlayerAchievements], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[com.epicgames.stats.achievement_not_found], NumericErrorCode=[UNSET], ErrorMessage=[Achievement definition not found], CorrId=[EOS-upfZd314MkCoVxTXXr8DJw-etyf_o2UeU6E1C6Fa4IeMg-xqWoXXdbbUqc-28jNvG2qw]
+20:17:06:846 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:17:06:882 (00005468) > [Epic] WARNING: LogEOSAchievements: Failed to unlock achievements. Error=EOS_UnexpectedError
+20:17:06:882 (00005468) > [Epic] [EOS SDK] Achievements - Unlock Achievements Error: EOS_UnexpectedError
+20:17:07:905 (00005468) > [Epic] WARNING: LogEOS: Error response received from backend. ServiceName=[StatsAchievements], OperationName=[UnlockPlayerAchievements], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[com.epicgames.stats.achievement_not_found], NumericErrorCode=[UNSET], ErrorMessage=[Achievement definition not found], CorrId=[EOS-upfZd314MkCoVxTXXr8DJw-etyf_o2UeU6E1C6Fa4IeMg-S-AKvmD8j0m4sA0jPLaGmw]
+20:17:07:905 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:17:07:923 (00005468) > [Epic] WARNING: LogEOSAchievements: Failed to unlock achievements. Error=EOS_UnexpectedError
+20:17:07:923 (00005468) > [Epic] [EOS SDK] Achievements - Unlock Achievements Error: EOS_UnexpectedError
+20:17:15:479 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:17:15:847 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:17:15:865 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:17:54:303 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:18:06:847 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:18:15:848 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:18:16:206 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:18:16:231 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:18:33:092 (00005468) > [Epic] LogEOS: Updating Product SDK Config, Time: 399.131866
+20:18:33:408 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:18:33:441 (00005468) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+20:18:33:441 (00005468) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 399.447083, Update Interval: 318.239685
+20:18:53:066 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:19:16:211 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:19:16:508 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:19:16:525 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:19:33:426 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:19:53:077 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:19:54:498 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:20:16:519 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:20:16:851 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:20:16:873 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:21:16:859 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:21:17:176 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:21:17:201 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:21:54:420 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:22:17:178 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:22:17:542 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:22:17:561 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:22:58:232 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:22:58:613 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:22:59:763 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:23:00:170 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:23:17:568 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:23:17:801 (00005468) > [Epic] LogEOSPresence: Didn't update Presence for a while. Forcing Presence auto-update.
+20:23:17:801 (00005468) > [Epic] LogEOSPresence: Updating Presence to Online. LocalUserId=[d41...624] RichText=[]
+20:23:17:867 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:23:17:887 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:23:18:136 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:23:54:412 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:23:55:215 (00005468) > [Epic] LogEOS: Updating Product SDK Config, Time: 721.256470
+20:23:55:508 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:23:55:524 (00005468) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+20:23:55:524 (00005468) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 721.548706, Update Interval: 330.669281
+20:23:58:233 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:23:58:617 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:23:59:769 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:24:00:172 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:24:17:873 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:24:18:204 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:24:18:220 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:24:55:510 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:25:18:209 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:25:18:510 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:25:18:529 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:25:54:401 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:26:18:519 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:26:18:851 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:26:18:866 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:26:48:441 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:27:12:704 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:27:18:864 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:27:19:176 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:27:19:196 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:27:48:449 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:27:54:357 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:28:19:178 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:28:19:502 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:28:19:519 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:29:19:507 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:29:19:854 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:29:19:874 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:29:30:938 (00005468) > [Epic] LogEOS: Updating Product SDK Config, Time: 1056.981079
+20:29:31:250 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:29:31:268 (00005468) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+20:29:31:268 (00005468) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1057.293945, Update Interval: 306.284363
+20:29:47:966 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:29:54:429 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:30:19:866 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:30:20:181 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:30:20:203 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:30:31:254 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:30:47:974 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:31:20:195 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:31:20:490 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:31:20:510 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:31:54:350 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:32:20:506 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:32:20:823 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:32:20:839 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:33:17:821 (00005468) > [Epic] LogEOSPresence: Didn't update Presence for a while. Forcing Presence auto-update.
+20:33:17:821 (00005468) > [Epic] LogEOSPresence: Updating Presence to Online. LocalUserId=[d41...624] RichText=[]
+20:33:18:157 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:33:20:838 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:33:21:144 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:33:21:161 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:33:54:420 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:34:21:169 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:34:21:453 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:34:21:479 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:34:48:956 (00005468) > [Epic] LogEOS: Updating Product SDK Config, Time: 1374.995972
+20:34:49:362 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:34:49:386 (00005468) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+20:34:49:386 (00005468) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1375.401611, Update Interval: 315.665161
+20:35:21:476 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:35:21:857 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:35:21:870 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:35:49:368 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:35:54:494 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:36:21:879 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:36:22:206 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:36:22:225 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:37:22:208 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:37:22:525 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:37:22:542 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:37:45:849 (00005468) > [Epic] WARNING: LogEOS: Error response received from backend. ServiceName=[StatsAchievements], OperationName=[UnlockPlayerAchievements], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[com.epicgames.stats.achievement_not_found], NumericErrorCode=[UNSET], ErrorMessage=[Achievement definition not found], CorrId=[EOS-upfZd314MkCoVxTXXr8DJw-etyf_o2UeU6E1C6Fa4IeMg-F41FlwpJaka6d0I7hD-aKQ]
+20:37:45:849 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:37:45:889 (00005468) > [Epic] WARNING: LogEOSAchievements: Failed to unlock achievements. Error=EOS_UnexpectedError
+20:37:45:889 (00005468) > [Epic] [EOS SDK] Achievements - Unlock Achievements Error: EOS_UnexpectedError
+20:37:46:686 (00005468) > [Epic] WARNING: LogEOS: Error response received from backend. ServiceName=[StatsAchievements], OperationName=[UnlockPlayerAchievements], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[com.epicgames.stats.achievement_not_found], NumericErrorCode=[UNSET], ErrorMessage=[Achievement definition not found], CorrId=[EOS-upfZd314MkCoVxTXXr8DJw-etyf_o2UeU6E1C6Fa4IeMg-yMXv_hi8Kk6pPK6Zwyb02w]
+20:37:46:686 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:37:46:710 (00005468) > [Epic] WARNING: LogEOSAchievements: Failed to unlock achievements. Error=EOS_UnexpectedError
+20:37:46:710 (00005468) > [Epic] [EOS SDK] Achievements - Unlock Achievements Error: EOS_UnexpectedError
+20:37:54:431 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:38:22:525 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:38:22:926 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:38:22:959 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:38:45:865 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:39:22:944 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:39:23:233 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:39:23:246 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:39:54:467 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:40:22:999 (00005468) > [Epic] LogEOS: Updating Product SDK Config, Time: 1709.037720
+20:40:23:255 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:40:23:403 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:40:23:423 (00005468) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+20:40:23:423 (00005468) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1709.441162, Update Interval: 300.119019
+20:40:24:356 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:40:24:388 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:41:23:412 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:41:24:378 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:41:24:680 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:41:24:694 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:41:54:439 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:42:24:685 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:42:25:101 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:42:25:148 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:43:00:240 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:43:17:826 (00005468) > [Epic] LogEOSPresence: Didn't update Presence for a while. Forcing Presence auto-update.
+20:43:17:826 (00005468) > [Epic] LogEOSPresence: Updating Presence to Online. LocalUserId=[d41...624] RichText=[]
+20:43:18:120 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:43:25:108 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:43:25:417 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:43:25:432 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:43:54:513 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:44:00:245 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:44:25:431 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:44:25:731 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:44:25:765 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:44:27:630 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:45:25:743 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:45:26:092 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:45:26:110 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:45:27:636 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:45:54:531 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:46:16:654 (00005468) > [Epic] LogEOS: Updating Product SDK Config, Time: 2062.692627
+20:46:16:982 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:46:16:999 (00005468) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+20:46:16:999 (00005468) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2063.020508, Update Interval: 358.969086
+20:46:26:098 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:46:26:598 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:46:26:618 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:47:16:988 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:47:26:600 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:47:26:923 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:47:26:941 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:47:54:519 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:48:26:930 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:48:27:261 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:48:27:280 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:49:13:074 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:49:27:264 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:49:27:549 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:49:27:567 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:49:54:563 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:50:13:091 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:50:27:560 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:50:27:920 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:50:27:951 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:51:27:929 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:51:28:259 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:51:28:280 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:51:54:616 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:52:28:266 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:52:28:604 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:52:28:621 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:52:46:558 (00005468) > [Epic] LogEOS: Updating Product SDK Config, Time: 2452.570312
+20:52:47:099 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:52:47:123 (00005468) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+20:52:47:123 (00005468) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2453.110840, Update Interval: 335.041962
+20:53:17:838 (00005468) > [Epic] LogEOSPresence: Didn't update Presence for a while. Forcing Presence auto-update.
+20:53:17:839 (00005468) > [Epic] LogEOSPresence: Updating Presence to Online. LocalUserId=[d41...624] RichText=[]
+20:53:18:235 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:53:28:604 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:53:29:006 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:53:29:023 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:53:47:114 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+20:53:54:561 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:54:29:024 (00005468) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+20:54:29:348 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:54:29:370 (00005468) > [Epic] LogEOSAuth: Verify Auth Success
+20:54:43:972 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:54:44:342 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:54:45:236 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:54:45:624 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:54:46:034 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:54:46:503 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:54:46:503 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:54:46:863 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:54:47:304 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:54:47:669 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:54:47:669 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:54:48:073 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:54:48:437 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:54:48:789 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:54:48:823 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:54:49:236 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:54:51:735 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:54:52:101 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:54:52:202 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:54:52:575 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:54:53:024 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:55:02:165 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:55:02:530 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:55:02:563 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:55:02:931 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:55:03:314 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:55:03:652 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:55:03:652 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:55:04:101 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:55:04:513 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:55:06:234 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:55:06:659 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:55:06:679 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:55:07:112 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:55:07:580 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:55:08:012 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:55:08:013 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:55:08:396 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:55:08:828 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:55:09:161 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:55:09:194 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:55:09:644 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:55:10:030 (00008356) > [DXGI] Present failed with HRESULT 0x087a0001
+20:55:10:037 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+20:55:10:051 (00008356) > [DXGI] Present failed with HRESULT 0x087a0001
+20:55:11:471 (00008356) > [DXGI] Present failed with HRESULT 0x087a0001
+04:28:53:738 (00005468) > [Epic] LogEOS: Large tick time detected 113637.6953
+04:28:53:739 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+04:28:53:739 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+04:28:53:739 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+04:28:53:739 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+04:28:53:739 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+04:28:53:739 (00005468) > [Epic] LogEOSPresence: Didn't update Presence for a while. Forcing Presence auto-update.
+04:28:53:739 (00005468) > [Epic] LogEOSPresence: Updating Presence to Online. LocalUserId=[d41...624] RichText=[]
+04:28:53:739 (00005468) > [Epic] WARNING: LogEOSMessaging: Received Stomp Connection Closed Message. LocalUserId=[d41...624] Reason=[]
+04:28:53:739 (00005468) > [Epic] LogEOSAnalytics: Record Event: EpicConnectConnectionClosed <Redacted>
+04:28:53:740 (00005468) > [Epic] WARNING: LogEOSMessaging: Lost connection to Stomp on 'wss://api.epicgames.dev/notifications/v1/3976af33daf443f5b08526d7d5ffb86a/connect' () - will attempt to reconnect after 6.1 seconds. LocalUserId=[000...c87]
+04:28:53:747 (00005468) > [Epic] LogEOSP2P: Applying updated RTC Configuration
+04:28:53:747 (00005468) > [Epic] LogEOSMessaging: Finished waiting 0.00 seconds, reconnecting to EpicConnect
+04:28:53:748 (00005468) > [Input] Input language was changed.
+04:28:53:748 (00005468) > [Input] Keyboard language: "English (India)" (id: 16393)
+04:28:53:748 (00005468) > [Input] Keyboard physical layout: "India" (id: 00004009)
+04:28:53:957 (00005468) > [Epic] WARNING: LogHttp: 00000266CA503CD0: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B1077A60A-4243-6E0D-EDCF-859C6EBF985D%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.13.0-16697186%20-%20%2B%2BEOSSDK%2BRelease-1.13-CL-16697186&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+04:28:53:957 (00005468) > [Epic] WARNING: LogHttp: 00000266CA503CD0: request failed, libcurl error: 6 (Couldn't resolve host name)
+04:28:53:957 (00005468) > [Epic] WARNING: LogHttp: 00000266CA503CD0: libcurl info message cache 0 (Connection 0 seems to be dead!)
+04:28:53:957 (00005468) > [Epic] WARNING: LogHttp: 00000266CA503CD0: libcurl info message cache 1 (Closing connection 0)
+04:28:53:957 (00005468) > [Epic] WARNING: LogHttp: 00000266CA503CD0: libcurl info message cache 2 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+04:28:53:957 (00005468) > [Epic] WARNING: LogHttp: 00000266CA503CD0: libcurl info message cache 3 (Connection 8 seems to be dead!)
+04:28:53:957 (00005468) > [Epic] WARNING: LogHttp: 00000266CA503CD0: libcurl info message cache 4 (Closing connection 8)
+04:28:53:957 (00005468) > [Epic] WARNING: LogHttp: 00000266CA503CD0: libcurl info message cache 5 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+04:28:53:958 (00005468) > [Epic] WARNING: LogHttp: 00000266CA503CD0: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+04:28:53:958 (00005468) > [Epic] WARNING: LogHttp: 00000266CA503CD0: libcurl info message cache 7 (Closing connection 9)
+04:28:53:958 (00005468) > [Epic] WARNING: LogHttp: 00000266CA500E50: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+04:28:53:958 (00005468) > [Epic] WARNING: LogHttp: 00000266CA500E50: request failed, libcurl error: 6 (Couldn't resolve host name)
+04:28:53:958 (00005468) > [Epic] WARNING: LogHttp: 00000266CA500E50: libcurl info message cache 0 (Found bundle for host api.epicgames.dev: 0x266b696e1e0 [serially])
+04:28:53:958 (00005468) > [Epic] WARNING: LogHttp: 00000266CA500E50: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+04:28:53:958 (00005468) > [Epic] WARNING: LogHttp: 00000266CA500E50: libcurl info message cache 2 (Closing connection 12)
+04:28:53:958 (00005468) > [Epic] WARNING: LogHttp: 00000266CA504870: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=f9a9c28b19c74535a77172129fb440d2&AppVersion=1.13.0-16697186&AppEnvironment=48ffecf4a89f4fd496817b0451384f39&UploadType=eteventstream&SessionID=C071A76A48BE3BB87791FBBF9F05317C, HTTP code: 0, content length: 0, actual payload size: 0
+04:28:53:958 (00005468) > [Epic] WARNING: LogHttp: 00000266CA504870: request failed, libcurl error: 6 (Couldn't resolve host name)
+04:28:53:958 (00005468) > [Epic] WARNING: LogHttp: 00000266CA504870: libcurl info message cache 0 (Found bundle for host api.epicgames.dev: 0x266b696e1e0 [serially])
+04:28:53:958 (00005468) > [Epic] WARNING: LogHttp: 00000266CA504870: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+04:28:53:958 (00005468) > [Epic] WARNING: LogHttp: 00000266CA504870: libcurl info message cache 2 (Closing connection 11)
+04:28:53:958 (00005468) > [Epic] WARNING: LogHttp: 00000266CA5042A0: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v1/token, HTTP code: 0, content length: 0, actual payload size: 0
+04:28:53:958 (00005468) > [Epic] WARNING: LogHttp: 00000266CA5042A0: request failed, libcurl error: 6 (Couldn't resolve host name)
+04:28:53:958 (00005468) > [Epic] WARNING: LogHttp: 00000266CA5042A0: libcurl info message cache 0 (Found bundle for host api.epicgames.dev: 0x266b696e1e0 [serially])
+04:28:53:958 (00005468) > [Epic] WARNING: LogHttp: 00000266CA5042A0: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+04:28:53:958 (00005468) > [Epic] WARNING: LogHttp: 00000266CA5042A0: libcurl info message cache 2 (Closing connection 10)
+04:28:53:958 (00005468) > [Epic] WARNING: LogHttp: Lockout of 2.141057s on https://api.epicgames.dev/epic/oauth/v1/token
+04:28:53:958 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Retry <Redacted>
+04:28:53:958 (00005468) > [Epic] WARNING: LogHttp: Lockout of 2.205634s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=f9a9c28b19c74535a77172129fb440d2&AppVersion=1.13.0-16697186&AppEnvironment=48ffecf4a89f4fd496817b0451384f39&UploadType=eteventstream&SessionID=C071A76A48BE3BB87791FBBF9F05317C
+04:28:53:958 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Retry <Redacted>
+04:28:53:958 (00005468) > [Epic] WARNING: LogHttp: Lockout of 2.217902s on https://api.epicgames.dev/auth/v1/oauth/token
+04:28:53:958 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Retry <Redacted>
+04:28:54:039 (00005468) > [Epic] WARNING: LogEOSAuth: Failed to parse response UTC time, using local calculation
+04:28:54:039 (00005468) > [Epic] LogEOSConnect: ConnectClientAuthTask Failure
+04:28:54:039 (00005468) > [Epic] WARNING: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B1077A60A-4243-6E0D-EDCF-859C6EBF985D%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.13.0-16697186%20-%20%2B%2BEOSSDK%2BRelease-1.13-CL-16697186&UserID=&AppEnvironment=Production&UploadType=sdkevents
+04:28:54:056 (00005468) > [Epic] WARNING: LogEOSAuth: Refresh Failure 1003
+04:28:54:058 (00005468) > [Epic] WARNING: LogEOSPresence: Can't set presence to offline, No connection to EpicConnect. LocalUserId=[d41...624]
+04:28:54:058 (00005468) > [Epic] WARNING: LogEOSUserInfo: Batch call to userinfo query failed - Error=EOS_UnexpectedError
+04:28:54:058 (00005468) > [Epic] WARNING: LogEOSMessaging: Failed to connect to EpicConnect service due to EOS_UnexpectedError. Trying again in 5.00 seconds.
+04:28:54:103 (00005468) > [Epic] Main user login status changed
+04:28:54:112 (00005468) > [Epic] LogEOSOverlay: Closing browser [InstanceId=2632822021328, BrowserId=1, TabId=0]
+04:28:54:112 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.CloseBrowser <Redacted>
+04:28:54:384 (00005468) > [Epic] LogEOSOverlay: Closing active browser [InstanceId=2632822021328, BrowserId=1, TabId=0]
+04:28:54:384 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.RenderProcess.BrowserClosed <Redacted>
+04:28:54:916 (00005468) > [Epic] LogEOSOverlay: Browser status 3 received for browser 1
+04:28:54:916 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.CloseBrowser <Redacted>
+04:28:54:916 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.BrowserStatus <Redacted>
+04:28:56:107 (00005468) > [Epic] WARNING: LogHttp: Retry 1 on https://api.epicgames.dev/epic/oauth/v1/token
+04:28:56:131 (00005468) > [Epic] WARNING: LogHttp: 00000266CA5042A0: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v1/token, HTTP code: 0, content length: 0, actual payload size: 0
+04:28:56:131 (00005468) > [Epic] WARNING: LogHttp: 00000266CA5042A0: request failed, libcurl error: 6 (Couldn't resolve host name)
+04:28:56:131 (00005468) > [Epic] WARNING: LogHttp: 00000266CA5042A0: libcurl info message cache 3 (Could not resolve host: api.epicgames.dev)
+04:28:56:131 (00005468) > [Epic] WARNING: LogHttp: 00000266CA5042A0: libcurl info message cache 4 (Closing connection 13)
+04:28:56:131 (00005468) > [Epic] WARNING: LogHttp: Lockout of 7.720695s on https://api.epicgames.dev/epic/oauth/v1/token
+04:28:56:131 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Retry <Redacted>
+04:28:56:140 (00005468) > [Epic] WARNING: LogEOSAuth: Failed to parse response UTC time, using local calculation
+04:28:56:165 (00005468) > [Epic] WARNING: LogEOSAuth: Refresh Failure 1003
+04:28:56:165 (00005468) > [Epic] WARNING: LogEOSPresence: Can't set presence to offline, No connection to EpicConnect. LocalUserId=[d41...624]
+04:28:56:165 (00005468) > [Epic] WARNING: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=f9a9c28b19c74535a77172129fb440d2&AppVersion=1.13.0-16697186&AppEnvironment=48ffecf4a89f4fd496817b0451384f39&UploadType=eteventstream&SessionID=C071A76A48BE3BB87791FBBF9F05317C
+04:28:56:198 (00005468) > [Epic] Main user login status changed
+04:28:56:198 (00005468) > [Epic] WARNING: LogHttp: 00000266CA504870: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=f9a9c28b19c74535a77172129fb440d2&AppVersion=1.13.0-16697186&AppEnvironment=48ffecf4a89f4fd496817b0451384f39&UploadType=eteventstream&SessionID=C071A76A48BE3BB87791FBBF9F05317C, HTTP code: 0, content length: 0, actual payload size: 0
+04:28:56:198 (00005468) > [Epic] WARNING: LogHttp: 00000266CA504870: request failed, libcurl error: 6 (Couldn't resolve host name)
+04:28:56:198 (00005468) > [Epic] WARNING: LogHttp: 00000266CA504870: libcurl info message cache 3 (Could not resolve host: api.epicgames.dev)
+04:28:56:198 (00005468) > [Epic] WARNING: LogHttp: 00000266CA504870: libcurl info message cache 4 (Closing connection 14)
+04:28:56:198 (00005468) > [Epic] WARNING: LogHttp: Lockout of 7.238869s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=f9a9c28b19c74535a77172129fb440d2&AppVersion=1.13.0-16697186&AppEnvironment=48ffecf4a89f4fd496817b0451384f39&UploadType=eteventstream&SessionID=C071A76A48BE3BB87791FBBF9F05317C
+04:28:56:198 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Retry <Redacted>
+04:28:56:198 (00005468) > [Epic] WARNING: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+04:28:56:231 (00005468) > [Epic] WARNING: LogHttp: 00000266CA500E50: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+04:28:56:231 (00005468) > [Epic] WARNING: LogHttp: 00000266CA500E50: request failed, libcurl error: 6 (Couldn't resolve host name)
+04:28:56:231 (00005468) > [Epic] WARNING: LogHttp: 00000266CA500E50: libcurl info message cache 3 (Could not resolve host: api.epicgames.dev)
+04:28:56:231 (00005468) > [Epic] WARNING: LogHttp: 00000266CA500E50: libcurl info message cache 4 (Closing connection 15)
+04:28:56:231 (00005468) > [Epic] WARNING: LogHttp: Lockout of 7.275247s on https://api.epicgames.dev/auth/v1/oauth/token
+04:28:56:231 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Retry <Redacted>
+04:28:56:264 (00005468) > [Epic] LogEOSConnect: ConnectClientAuthTask Failure
+04:28:59:314 (00005468) > [Epic] WARNING: LogHttp: 00000266CA503130: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B1077A60A-4243-6E0D-EDCF-859C6EBF985D%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.13.0-16697186%20-%20%2B%2BEOSSDK%2BRelease-1.13-CL-16697186&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+04:28:59:314 (00005468) > [Epic] WARNING: LogHttp: 00000266CA503130: request failed, libcurl error: 6 (Couldn't resolve host name)
+04:28:59:314 (00005468) > [Epic] WARNING: LogHttp: 00000266CA503130: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+04:28:59:314 (00005468) > [Epic] WARNING: LogHttp: 00000266CA503130: libcurl info message cache 1 (Closing connection 16)
+04:28:59:323 (00005468) > [Epic] WARNING: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B1077A60A-4243-6E0D-EDCF-859C6EBF985D%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.13.0-16697186%20-%20%2B%2BEOSSDK%2BRelease-1.13-CL-16697186&UserID=&AppEnvironment=Production&UploadType=sdkevents
+04:28:59:847 (00005468) > [Epic] LogEOSMessaging: Attempting connection to Stomp. LocalUserId=[000...c87] Url=[<Redacted>]
+04:28:59:848 (00005468) > [Epic] WARNING: LogEOSMessaging: Unable to connect to Stomp - connect access token is not currently valid. ConnectLocalUserId=[000...c87]
+04:29:03:463 (00005468) > [Epic] WARNING: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=f9a9c28b19c74535a77172129fb440d2&AppVersion=1.13.0-16697186&AppEnvironment=48ffecf4a89f4fd496817b0451384f39&UploadType=eteventstream&SessionID=C071A76A48BE3BB87791FBBF9F05317C
+04:29:03:496 (00005468) > [Epic] WARNING: LogHttp: 00000266CA504870: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=f9a9c28b19c74535a77172129fb440d2&AppVersion=1.13.0-16697186&AppEnvironment=48ffecf4a89f4fd496817b0451384f39&UploadType=eteventstream&SessionID=C071A76A48BE3BB87791FBBF9F05317C, HTTP code: 0, content length: 0, actual payload size: 0
+04:29:03:496 (00005468) > [Epic] WARNING: LogHttp: 00000266CA504870: request failed, libcurl error: 6 (Couldn't resolve host name)
+04:29:03:496 (00005468) > [Epic] WARNING: LogHttp: 00000266CA504870: libcurl info message cache 5 (Could not resolve host: api.epicgames.dev)
+04:29:03:496 (00005468) > [Epic] WARNING: LogHttp: 00000266CA504870: libcurl info message cache 6 (Closing connection 17)
+04:29:03:496 (00005468) > [Epic] WARNING: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=f9a9c28b19c74535a77172129fb440d2&AppVersion=1.13.0-16697186&AppEnvironment=48ffecf4a89f4fd496817b0451384f39&UploadType=eteventstream&SessionID=C071A76A48BE3BB87791FBBF9F05317C
+04:29:03:496 (00005468) > [Epic] WARNING: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+04:29:03:496 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+04:29:03:529 (00005468) > [Epic] WARNING: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+04:29:03:561 (00005468) > [Epic] WARNING: LogHttp: 00000266CA500E50: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+04:29:03:561 (00005468) > [Epic] WARNING: LogHttp: 00000266CA500E50: request failed, libcurl error: 6 (Couldn't resolve host name)
+04:29:03:561 (00005468) > [Epic] WARNING: LogHttp: 00000266CA500E50: libcurl info message cache 5 (Could not resolve host: api.epicgames.dev)
+04:29:03:561 (00005468) > [Epic] WARNING: LogHttp: 00000266CA500E50: libcurl info message cache 6 (Closing connection 18)
+04:29:03:563 (00005468) > [Epic] WARNING: LogHttp: Lockout of 12.846583s on https://api.epicgames.dev/auth/v1/oauth/token
+04:29:03:563 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Retry <Redacted>
+04:29:03:570 (00005468) > [Epic] LogEOSConnect: ConnectClientAuthTask Failure
+04:29:03:862 (00005468) > [Epic] WARNING: LogHttp: Retry 2 on https://api.epicgames.dev/epic/oauth/v1/token
+04:29:03:895 (00005468) > [Epic] WARNING: LogHttp: 00000266CA5042A0: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v1/token, HTTP code: 0, content length: 0, actual payload size: 0
+04:29:03:895 (00005468) > [Epic] WARNING: LogHttp: 00000266CA5042A0: request failed, libcurl error: 6 (Couldn't resolve host name)
+04:29:03:895 (00005468) > [Epic] WARNING: LogHttp: 00000266CA5042A0: libcurl info message cache 5 (Could not resolve host: api.epicgames.dev)
+04:29:03:895 (00005468) > [Epic] WARNING: LogHttp: 00000266CA5042A0: libcurl info message cache 6 (Closing connection 19)
+04:29:03:895 (00005468) > [Epic] WARNING: LogHttp: Lockout of 14.070253s on https://api.epicgames.dev/epic/oauth/v1/token
+04:29:03:895 (00005468) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Retry <Redacted>
+04:29:03:903 (00005468) > [Epic] WARNING: LogEOSAuth: Failed to parse response UTC time, using local calculation
+04:29:03:928 (00005468) > [Epic] WARNING: LogEOSAuth: Refresh Failure 1003
+04:29:03:928 (00005468) > [Epic] WARNING: LogEOSPresence: Can't set presence to offline, No connection to EpicConnect. LocalUserId=[d41...624]
+04:29:03:962 (00005468) > [Epic] Main user login status changed
+04:29:07:476 (00005468) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EjectInstance <Redacted>
+04:29:07:483 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+04:29:07:483 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+04:29:07:483 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+04:29:07:483 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+04:29:07:483 (00005468) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+04:29:07:507 (00005468) > [Epic] WARNING: LogHttp: 00000266CA503CD0: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B1077A60A-4243-6E0D-EDCF-859C6EBF985D%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.13.0-16697186%20-%20%2B%2BEOSSDK%2BRelease-1.13-CL-16697186&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+04:29:07:507 (00005468) > [Epic] WARNING: LogHttp: 00000266CA503CD0: request failed, libcurl error: 6 (Couldn't resolve host name)
+04:29:07:507 (00005468) > [Epic] WARNING: LogHttp: 00000266CA503CD0: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+04:29:07:507 (00005468) > [Epic] WARNING: LogHttp: 00000266CA503CD0: libcurl info message cache 1 (Closing connection 20)
+04:29:07:507 (00005468) > [Epic] WARNING: LogHttp: 00000266CA504870: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B85767CA5-454F-2D5A-2157-D4B52A25943F%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.13.0-16697186%20-%20%2B%2BEOSSDK%2BRelease-1.13-CL-16697186&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+04:29:07:507 (00005468) > [Epic] WARNING: LogHttp: 00000266CA504870: request failed, libcurl error: 6 (Couldn't resolve host name)
+04:29:07:507 (00005468) > [Epic] WARNING: LogHttp: 00000266CA504870: libcurl info message cache 0 (Found bundle for host api.epicgames.dev: 0x266b9176960 [serially])
+04:29:07:507 (00005468) > [Epic] WARNING: LogHttp: 00000266CA504870: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+04:29:07:507 (00005468) > [Epic] WARNING: LogHttp: 00000266CA504870: libcurl info message cache 2 (Closing connection 22)
+04:29:07:507 (00005468) > [Epic] WARNING: LogHttp: 00000266CA5059E0: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B1077A60A-4243-6E0D-EDCF-859C6EBF985D%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.13.0-16697186%20-%20%2B%2BEOSSDK%2BRelease-1.13-CL-16697186&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+04:29:07:507 (00005468) > [Epic] WARNING: LogHttp: 00000266CA5059E0: request failed, libcurl error: 6 (Couldn't resolve host name)
+04:29:07:507 (00005468) > [Epic] WARNING: LogHttp: 00000266CA5059E0: libcurl info message cache 0 (Found bundle for host api.epicgames.dev: 0x266b9176960 [serially])
+04:29:07:507 (00005468) > [Epic] WARNING: LogHttp: 00000266CA5059E0: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+04:29:07:507 (00005468) > [Epic] WARNING: LogHttp: 00000266CA5059E0: libcurl info message cache 2 (Closing connection 21)

@@ -1,0 +1,560 @@
+18:20:01:402 (00013392) > [Startup] Marvel's Spider-Man Remastered
+18:20:01:402 (00013392) > [Startup] ==============
+18:20:01:402 (00013392) > [Startup] 
+18:20:01:402 (00013392) > [Startup] Build: v2.1012.0.0
+18:20:01:402 (00013392) > [Startup] Windows 11.0 (build 26200)
+18:20:01:402 (00013392) > [Startup] Distribution platform: Steam
+18:20:01:402 (00013392) > [Startup] Game directory: C:\Users\<username>\OneDrive\Documents\Marvel's Spider-Man Remastered\
+18:20:01:402 (00013392) > [Startup] Working directory: C:\Users\<username>\Downloads\SPIDY_03\Marvels Spider-Man Remastered
+18:20:01:402 (00013392) > [Startup] Run ID: D4B0-2617-6246-627C
+18:20:01:402 (00013392) > [Startup] 
+18:20:01:402 (00013392) > [Startup] Memory statistics:
+18:20:01:402 (00013392) > [Startup]   Total RAM = 15.7 GB (16071 MB)
+18:20:01:402 (00013392) > [Startup]   Avail RAM = 10.0 GB (10275 MB)
+18:20:01:402 (00013392) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+18:20:01:402 (00013392) > [Startup]   Avail virtual memory = 131062.7 GB (134208169 MB)
+18:20:01:402 (00013392) > [Startup]   Total page file = 22.9 GB (23495 MB)
+18:20:01:402 (00013392) > [Startup]   Avail page file = 11.6 GB (11869 MB)
+18:20:01:402 (00013392) > [Startup] 
+18:20:01:402 (00013392) > [NxApp] PreInit
+18:20:01:402 (00013392) > [SwapChain] Initializing...
+18:20:01:402 (00013392) > [DXGI] Initializing...
+18:20:02:613 (00013392) > [NxApp] Streamline was successfully initialized.
+18:20:02:614 (00013392) > [DXGI] Successfully initialized.
+18:20:02:614 (00013392) > [Render] Enumerating adapters:
+18:20:02:614 (00013392) > [Render] 	Adapter 0:
+18:20:02:614 (00013392) > [Monitor] 		Description             : NVIDIA GeForce RTX 2050
+18:20:02:614 (00013392) > [Monitor] 		Vendor                  : nVidia (10de)
+18:20:02:614 (00013392) > [Monitor] 		Device                  : 25ad
+18:20:02:614 (00013392) > [Monitor] 		Sub system              : a5541558
+18:20:02:614 (00013392) > [Monitor] 		Revision                : 161
+18:20:02:614 (00013392) > [Monitor] 		Dedicated Video Memory  : 3977 MB
+18:20:02:614 (00013392) > [Monitor] 		Dedicated System Memory : 0000 MB
+18:20:02:614 (00013392) > [Monitor] 		Shared System Memory    : 8035 MB
+18:20:02:614 (00013392) > [Monitor] 
+18:20:02:614 (00013392) > [Render] Loading NVAPI...
+18:20:02:616 (00013392) > [Render] Done loading NVAPI
+18:20:02:616 (00013392) > [Render] 	Adapter 1:
+18:20:02:616 (00013392) > [Monitor] 		Description             : Intel(R) UHD Graphics
+18:20:02:616 (00013392) > [Monitor] 		Vendor                  : Intel (8086)
+18:20:02:616 (00013392) > [Monitor] 		Device                  : 46a3
+18:20:02:616 (00013392) > [Monitor] 		Sub system              : a5541558
+18:20:02:616 (00013392) > [Monitor] 		Revision                : 12
+18:20:02:616 (00013392) > [Monitor] 		Dedicated Video Memory  : 0128 MB
+18:20:02:616 (00013392) > [Monitor] 		Dedicated System Memory : 0000 MB
+18:20:02:616 (00013392) > [Monitor] 		Shared System Memory    : 8035 MB
+18:20:02:616 (00013392) > [Monitor] 
+18:20:02:616 (00013392) > [Render] 	Adapter 2:
+18:20:02:616 (00013392) > [Monitor] 		Description             : Microsoft Basic Render Driver
+18:20:02:616 (00013392) > [Monitor] 		Vendor                  : Unknown (1414)
+18:20:02:616 (00013392) > [Monitor] 		Device                  : 8c
+18:20:02:616 (00013392) > [Monitor] 		Sub system              : 0
+18:20:02:616 (00013392) > [Monitor] 		Revision                : 0
+18:20:02:616 (00013392) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+18:20:02:616 (00013392) > [Monitor] 		Dedicated System Memory : 0000 MB
+18:20:02:616 (00013392) > [Monitor] 		Shared System Memory    : 8035 MB
+18:20:02:616 (00013392) > [Monitor] 
+18:20:02:616 (00013392) > [Render] Enumerating monitors:
+18:20:02:616 (00013392) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 1.77, rounded aspect = 1.78
+18:20:02:616 (00013392) > [Render] 
+18:20:02:617 (00013392) > [Render] 	Monitor handle = 0000000000010001, pixel aspect ratio = 1.00
+18:20:02:617 (00013392) > [SwapChain] Successfully initialized.
+18:20:02:617 (00013392) > [Render] Enumerating Display Modes:
+18:20:02:618 (00013392) > [Render] Querying NVAPI for Surround modes
+18:20:02:618 (00013392) > [Render] NvAPI_DISP_GetGDIPrimaryDisplayId returned NVAPI_NVIDIA_DEVICE_NOT_FOUND (fffffffa)
+
+18:20:02:618 (00013392) > [Render] 	Monitor '1 (NVIDIA GeForce RTX 2050(1))' (0000000000010001):
+18:20:02:618 (00013392) > [Render] 		- Mode  0 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+18:20:02:618 (00013392) > [Render] 		- Mode  1 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+18:20:02:618 (00013392) > [Render] 		- Mode  2 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+18:20:02:618 (00013392) > [Render] 		- Mode  3 : 1280 x  600 @  60 Hz, stereo = 0, hdr = 0
+18:20:02:618 (00013392) > [Render] 		- Mode  4 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+18:20:02:618 (00013392) > [Render] 		- Mode  5 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+18:20:02:618 (00013392) > [Render] 		- Mode  6 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+18:20:02:618 (00013392) > [Render] 		- Mode  7 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
+18:20:02:618 (00013392) > [Render] 		- Mode  8 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+18:20:02:618 (00013392) > [Render] 		- Mode  9 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+18:20:02:618 (00013392) > [Render] 		- Mode 10 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+18:20:02:618 (00013392) > [Render] 		- Mode 11 : 1400 x 1050 @  60 Hz, stereo = 0, hdr = 0
+18:20:02:618 (00013392) > [Render] 		- Mode 12 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0
+18:20:02:618 (00013392) > [Render] 		- Mode 13 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+18:20:02:618 (00013392) > [Render] 		- Mode 14 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+18:20:02:618 (00013392) > [Render] 		- Mode 15 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+18:20:02:618 (00013392) > [Render] ***** Additional Monitor Output Info *****
+18:20:02:618 (00013392) > [Render] 		BitsPerColor: 8
+18:20:02:618 (00013392) > [Render] 		Primaries: R=0.5850;0.3633  G=0.3496;0.5791  B=0.1621;0.1426  White-Point=0.3125;0.3281
+18:20:02:618 (00013392) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+18:20:02:618 (00013392) > [Render] 		Luminance: Min=0.5000 Max=270.0000 MaxFullFrame=270.0000
+18:20:02:618 (00013392) > [Render] ******************************************
+18:20:02:618 (00013392) > [Render] 
+18:20:03:216 (00013392) > [NxApp] RAY TRACING ENABLED: Ray Tracing Tier 1.1 support detected
+18:20:03:275 (00013392) > [NxReflex] Reflex support result:Result::eOk
+18:20:03:275 (00013392) > [NxReflex] DLSSG support result:Result::eErrorNoSupportedAdapterFound
+18:20:03:280 (00013392) > [D3D] Max supported feature level: 11.0
+18:20:03:280 (00013392) > [Render] Disabled D3D12 experimentals
+18:20:03:392 (00013392) > [Render] VMEM Budget: 3380 MB
+18:20:03:392 (00013392) > [Render] VMEM Avaialbe: 3374 MB
+18:20:04:361 (00013392) > [Render] GPU node count: 1
+18:20:04:386 (00013392) > [NxApp] PreInit successful.
+18:20:04:387 (00013392) > [NxUpscaler] SL DLSS support: Result::eOk
+18:20:04:433 (00013392) > [NxUpscaler] XeSS init, code = 0
+18:20:04:437 (00013392) > [NxApp] Querying GPU Driver Info...
+18:20:04:437 (00013392) > [NxApp] Enumerating available display adapters:
+18:20:04:470 (00013392) > [NxApp] 		NVIDIA GeForce RTX 2050 (active)
+18:20:04:471 (00013392) > [NxApp] 		Intel(R) UHD Graphics
+18:20:04:471 (00013392) > [NxApp] Successfully found GPU Driver Info
+18:20:06:647 (00013392) > [NxReflex] Reflex support result:Result::eOk
+18:20:06:650 (00013392) > [NxReflex] DLSSG support result:Result::eErrorNoSupportedAdapterFound
+18:20:06:650 (00013392) > [NxApp] Querying GPU Driver Info...
+18:20:06:650 (00013392) > [NxApp] Enumerating available display adapters:
+18:20:06:676 (00013392) > [NxApp] 		NVIDIA GeForce RTX 2050 (active)
+18:20:06:676 (00013392) > [NxApp] 		Intel(R) UHD Graphics
+18:20:06:676 (00013392) > [NxApp] Successfully found GPU Driver Info
+18:20:06:676 (00013392) > [NxApp] Driver Desc: NVIDIA GeForce RTX 2050
+18:20:06:676 (00013392) > [NxApp] Driver Version: 537.53
+18:20:06:676 (00013392) > [**************************************************Display + Graphics Settings**************************************************] 
+18:20:06:676 (00013392) > [Settings] DirectX Version: 12
+18:20:06:676 (00013392) > [Settings] Window mode: Fullscreen
+18:20:06:676 (00013392) > [Settings] Fullscreen display mode:
+18:20:06:676 (00013392) > [Settings] 	Displaying on monitor: 0
+18:20:06:676 (00013392) > [Settings] 	Resolution: 1920x1080
+18:20:06:676 (00013392) > [Settings] 	HDR: Off
+18:20:06:676 (00013392) > [Settings] 	OS reported Refresh rate: 60
+18:20:06:676 (00013392) > [Settings] 	VSync: On
+18:20:06:676 (00013392) > [Settings] 	Reflex: Off
+18:20:06:676 (00013392) > [Settings] 	DLSSG: False
+18:20:06:676 (00013392) > [Settings] 	Resolution modifier 1.000000
+18:20:06:676 (00013392) > [Settings] 	Dynamic resolution FPS target: 60
+18:20:06:676 (00013392) > [Settings] Anti aliasing: TAA
+
+18:20:06:676 (00013392) > [Settings] Upscale method: DLSS
+
+18:20:06:676 (00013392) > [Settings] Upscale quality: Quality
+
+18:20:06:676 (00013392) > [Settings] Upscale sharpen value: 0.500000
+
+18:20:06:676 (00013392) > [Settings] Graphics Options:
+18:20:06:676 (00013392) > [Settings] 	RT Reflections: Off
+18:20:06:676 (00013392) > [Settings] 	Texture Quality: High
+18:20:06:676 (00013392) > [Settings] 	Texture Filtering: Anisotropic4x
+18:20:06:676 (00013392) > [Settings] 	Shadow Quality: High
+18:20:06:676 (00013392) > [Settings] 	Depth of Field: High
+18:20:06:676 (00013392) > [Settings] 	Level of Detail: High
+18:20:06:676 (00013392) > [Settings] 	Vehicle Detail: High
+18:20:06:676 (00013392) > [Settings] 	Crowd Detail: High
+18:20:06:676 (00013392) > [Settings] 	Hair Quality: High
+18:20:06:676 (00013392) > [Settings] 	Ambient Occlusion: SSAO
+18:20:06:676 (00013392) > [Settings] 	Screen Space Reflections: Normal
+18:20:06:676 (00013392) > [Settings] 	Particle Lighting: High
+
+18:20:06:676 (00013392) > [Settings] 	Bloom: On
+18:20:06:676 (00013392) > [Settings] 	Vignette: On
+18:20:06:676 (00013392) > [Settings] 	Chromatic Aberration: On
+18:20:06:676 (00013392) > [Settings] 	Motion Blur: 1.000000
+18:20:06:676 (00013392) > [Settings] 	FOV Correction: 1.000000
+18:20:06:676 (00013392) > [Settings] 	Film Grain Strength: 1.000000
+18:20:06:676 (00013392) > [Settings] 	Sharpness: 1.000000
+18:20:06:676 (00013392) > [Settings] 	Lens Flares: On
+18:20:06:676 (00013392) > [Settings] 	Screen Effects: On
+18:20:06:676 (00013392) > [**************************************************Display + Graphics Settings**************************************************] 
+18:20:06:676 (00013392) > [NxApp] Creating window...
+18:20:06:685 (00005216) > [GameWindow] UpdateState bVisible true
+18:20:06:718 (00005216) > [Input] Keyboard language: "English (India)" (id: 16393)
+18:20:06:718 (00005216) > [Input] Keyboard physical layout: "India" (id: 00004009)
+18:20:06:718 (00005216) > [Input] Human Input Device  "HID-compliant vendor-defined device"   product 257 vendor 10248 version 777 usage 1 usagePage 65280
+18:20:06:719 (00005216) > [Input] Human Input Device  "HID-compliant wireless radio controls"   product 2590 vendor 32903 version 512 usage 12 usagePage 1
+18:20:06:720 (00005216) > [Input] Human Input Device  "Microsoft Input Configuration Device"   product 0 vendor 0 version 0 usage 0 usagePage 0
+18:20:06:720 (00005216) > [Input] Human Input Device  "HID-compliant touch pad"   product 257 vendor 10248 version 777 usage 5 usagePage 13
+18:20:06:720 (00005216) > [Input] Keyboard            "Standard PS/2 Keyboard"   type 4 subType 0 mode 1 function 12 indicators 3 total 101
+18:20:06:721 (00005216) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 2 sampleRate 0 horizontalWheel no
+18:20:06:739 (00005216) > [Input] Using LibScePad
+18:20:06:741 (00005216) > [XInput] Enumerating available xusb hid devices:
+
+18:20:06:748 (00013392) > [NxApp] Window created.
+18:20:06:749 (00013392) > [NxApp] Initializing swapchain...
+18:20:06:749 (00027800) > [SwapChain] Creating...
+18:20:06:749 (00027800) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+18:20:06:831 (00027800) > [DXGI] Created swapchain.
+18:20:06:857 (00027800) > [SwapChain] Gamma correction is enabled.
+18:20:06:857 (00027800) > [SwapChain] Successfully created.
+18:20:06:857 (00027800) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+18:20:06:857 (00013392) > [NxApp] Swapchain initialized
+18:20:06:857 (00013392) > [NxApp] Initializing renderer...
+18:20:06:857 (00013392) > [NxApp] Renderer initialized
+18:20:06:858 (00013392) > [NxProcessorInfo] Custom affinity 0 selected.
+18:20:06:858 (00013392) > [NxProcessorInfo] Processor info:
+18:20:06:858 (00013392) > [NxProcessorInfo] 	Physical Core:     	8
+18:20:06:858 (00013392) > [NxProcessorInfo] 		Performance Core:   4
+18:20:06:858 (00013392) > [NxProcessorInfo] 		Efficiency  Core:   4
+18:20:06:858 (00013392) > [NxProcessorInfo] 	Logical  Core:     	12
+18:20:06:858 (00013392) > [NxProcessorInfo] 	Distinct L3 Cache: 	1
+18:20:06:858 (00013392) > [NxProcessorInfo] 	Family:            	6
+18:20:06:858 (00013392) > [NxProcessorInfo] 	Model:             	154
+18:20:06:858 (00013392) > [NxProcessorInfo] 	Name:              	12th Gen Intel(R) Core(TM) i5-12450H
+18:20:06:858 (00013392) > [NxProcessorInfo] 	NormalAffinity(auto)
+18:20:06:937 (00013392) > [Render] File cache.pso contains 10937 pipelines and 0 duplicates
+18:20:06:937 (00013392) > [Render] File C:\Users\<username>\AppData\Roaming\Insomniac Games\Marvel's Spider-Man Remastered\\cache.pso contains 4 pipelines and 0 duplicates
+18:20:06:937 (00013392) > [Render] Support for Shader Model 6.6: Yes
+18:20:06:937 (00013392) > [Render] Is UMA: No Is Cache Coherent: No
+18:20:06:937 (00013392) > [Render] Using Cpu Buffer Optimize: No
+18:20:10:692 (00027884) > [Audio] Device (re)initialized 0x0 'Speakers (Realtek(R) Audio)'
+18:20:10:742 (00019816) > [Save] Request type 3 failed with code 0x00000002
+18:20:10:776 (00019816) > [Save] Request type 3 failed with code 0x00000002
+18:20:11:223 (00001396) > [PSN] [AuthenticationRequest] 5 error 12029
+18:20:14:021 (00013392) > [Save] Request load save type -1, control 128, target -1
+18:20:14:022 (00019816) > [Save] Request type 3 failed with code 0x00000002
+18:20:14:057 (00019816) > [Save] Request type 3 failed with code 0x00000002
+18:20:14:113 (00013392) > [Save] Request load save type 0, control 128, target -1
+18:20:14:127 (00019816) > [Save] Request type 3 failed with code 0x00000002
+18:20:14:134 (00013392) > [Save] Request load save type 0, control 128, target -1
+18:20:14:145 (00019816) > [Save] Request type 3 failed with code 0x00000002
+18:20:14:162 (00013392) > [Save] Request load save type 0, control 128, target -1
+18:20:14:179 (00019816) > [Save] Request type 3 failed with code 0x00000002
+18:20:14:195 (00013392) > [Save] Request load save type 0, control 128, target -1
+18:20:14:211 (00019816) > [Save] Request type 3 failed with code 0x00000002
+18:20:14:228 (00013392) > [Save] Request load save type 0, control 128, target -1
+18:20:14:245 (00019816) > [Save] Request type 3 failed with code 0x00000002
+18:20:29:240 (00005300) > [PSN] [AuthenticationRequest] 5 error 12029
+18:20:47:275 (00001396) > [PSN] [AuthenticationRequest] 5 error 12029
+18:21:05:315 (00001396) > [PSN] [AuthenticationRequest] 5 error 12029
+18:21:09:175 (00028620) > [Render] Working set: 3648MB Page file: 9922MB Video Budget: 3380MB Video Usage: 2795MB Sys Budget: 7378MB Sys Usage: 874MB Tex Usage: 831MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 460MB fps: 58.233337
+18:21:23:368 (00006588) > [PSN] [AuthenticationRequest] 5 error 12029
+18:21:41:399 (00001396) > [PSN] [AuthenticationRequest] 5 error 12029
+18:21:48:311 (00027884) > [Audio] Device (re)initialized 0x0 'Speakers (Realtek(R) Audio)'
+18:21:48:311 (00027884) > [Audio] Device removed 0x0
+18:21:48:353 (00027884) > [Audio] Device (re)initialized 0x0 'Speakers (Realtek(R) Audio)'
+18:21:59:454 (00001396) > [PSN] [AuthenticationRequest] 5 error 12029
+18:22:09:172 (00028620) > [Render] Working set: 3612MB Page file: 9922MB Video Budget: 3380MB Video Usage: 2795MB Sys Budget: 7378MB Sys Usage: 875MB Tex Usage: 831MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 460MB fps: 60.000004
+18:22:13:514 (00013392) > [Save] Request load save type 0, control 128, target -1
+18:22:17:506 (00001396) > [PSN] [AuthenticationRequest] 5 error 12029
+18:22:17:920 (00013392) > [Save] Request save type 2, control 0
+18:22:23:436 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:22:23:458 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:22:23:474 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:22:23:485 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:22:23:497 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:22:23:521 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:22:23:534 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:22:23:545 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:22:23:556 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:22:23:578 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:22:23:589 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:22:23:607 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:22:23:644 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:22:23:657 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:22:26:889 (00013392) > [Save] Request save type 0, control 0
+18:23:09:200 (00028620) > [Render] Working set: 5707MB Page file: 11523MB Video Budget: 3380MB Video Usage: 3107MB Sys Budget: 7378MB Sys Usage: 1944MB Tex Usage: 2076MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 1584MB fps: 44.966667
+18:24:09:205 (00028620) > [Render] Working set: 5790MB Page file: 11518MB Video Budget: 3380MB Video Usage: 3022MB Sys Budget: 7378MB Sys Usage: 2082MB Tex Usage: 2099MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 1658MB fps: 47.333336
+18:25:09:206 (00028620) > [Render] Working set: 5788MB Page file: 11564MB Video Budget: 3380MB Video Usage: 3082MB Sys Budget: 7378MB Sys Usage: 2066MB Tex Usage: 2150MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 1639MB fps: 54.533337
+18:26:09:201 (00028620) > [Render] Working set: 5703MB Page file: 11847MB Video Budget: 3380MB Video Usage: 3040MB Sys Budget: 7378MB Sys Usage: 2357MB Tex Usage: 2396MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 1929MB fps: 56.933338
+18:27:09:202 (00028620) > [Render] Working set: 5677MB Page file: 11842MB Video Budget: 3380MB Video Usage: 3086MB Sys Budget: 7378MB Sys Usage: 2324MB Tex Usage: 2437MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 1897MB fps: 53.950005
+18:27:12:933 (00013392) > [Save] Request save type 0, control 36
+18:28:09:209 (00028620) > [Render] Working set: 5448MB Page file: 11598MB Video Budget: 3380MB Video Usage: 3136MB Sys Budget: 7378MB Sys Usage: 2020MB Tex Usage: 2085MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 1569MB fps: 56.066669
+18:29:09:207 (00028620) > [Render] Working set: 5779MB Page file: 11916MB Video Budget: 3380MB Video Usage: 3081MB Sys Budget: 7378MB Sys Usage: 2364MB Tex Usage: 2488MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 1935MB fps: 49.600002
+18:29:26:897 (00013392) > [Save] Request save type 0, control 0
+18:29:26:898 (00013392) > [Save] Request save type 0, control 0
+18:29:26:915 (00013392) > [Save] Request save type 0, control 0
+18:30:09:206 (00028620) > [Render] Working set: 5836MB Page file: 11928MB Video Budget: 3380MB Video Usage: 3068MB Sys Budget: 7378MB Sys Usage: 2416MB Tex Usage: 2530MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 1988MB fps: 54.283337
+18:30:26:358 (00013392) > [Save] Request save type 0, control 36
+18:31:09:209 (00028620) > [Render] Working set: 5517MB Page file: 11639MB Video Budget: 3380MB Video Usage: 3096MB Sys Budget: 7378MB Sys Usage: 2074MB Tex Usage: 2020MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 1516MB fps: 53.366669
+18:32:09:213 (00028620) > [Render] Working set: 5892MB Page file: 11971MB Video Budget: 3380MB Video Usage: 3069MB Sys Budget: 7378MB Sys Usage: 2437MB Tex Usage: 2438MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 1878MB fps: 52.650002
+18:33:09:233 (00028620) > [Render] Working set: 6061MB Page file: 12106MB Video Budget: 3380MB Video Usage: 3057MB Sys Budget: 7378MB Sys Usage: 2610MB Tex Usage: 2570MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 2052MB fps: 49.416668
+18:34:09:236 (00028620) > [Render] Working set: 6031MB Page file: 12055MB Video Budget: 3380MB Video Usage: 3017MB Sys Budget: 7378MB Sys Usage: 2600MB Tex Usage: 2530MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 2041MB fps: 53.133335
+18:34:12:399 (00013392) > [Save] Request save type 0, control 36
+18:35:09:227 (00028620) > [Render] Working set: 5652MB Page file: 11794MB Video Budget: 3380MB Video Usage: 3082MB Sys Budget: 7378MB Sys Usage: 2187MB Tex Usage: 2163MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 1629MB fps: 53.250004
+18:35:25:553 (00013392) > [Save] Request save type 0, control 0
+18:35:25:553 (00013392) > [Save] Request save type 0, control 0
+18:35:25:579 (00013392) > [Save] Request save type 0, control 0
+18:35:52:567 (00013392) > [Save] Request save type 0, control 0
+18:35:52:567 (00013392) > [Save] Request save type 0, control 0
+18:35:52:568 (00013392) > [Save] Request save type 0, control 0
+18:36:09:227 (00028620) > [Render] Working set: 5899MB Page file: 12016MB Video Budget: 3380MB Video Usage: 3060MB Sys Budget: 7378MB Sys Usage: 2435MB Tex Usage: 2346MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 1873MB fps: 54.050003
+18:37:09:230 (00028620) > [Render] Working set: 6108MB Page file: 12171MB Video Budget: 3380MB Video Usage: 3007MB Sys Budget: 7378MB Sys Usage: 2684MB Tex Usage: 2590MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 2122MB fps: 46.883335
+18:37:27:028 (00027884) > [Audio] Device (re)initialized 0x0 'Speakers (Realtek(R) Audio)'
+18:37:53:229 (00013392) > [Input] Input language was changed.
+18:37:53:229 (00013392) > [Input] Keyboard language: "Afrikaans (South Africa)" (id: 1078)
+18:37:53:229 (00013392) > [Input] Keyboard physical layout: "US" (id: 00000409)
+18:38:09:244 (00028620) > [Render] Working set: 6146MB Page file: 12252MB Video Budget: 3380MB Video Usage: 3071MB Sys Budget: 7378MB Sys Usage: 2695MB Tex Usage: 2623MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 2133MB fps: 44.950001
+18:38:20:986 (00013392) > [Save] Request save type 0, control 36
+18:39:09:262 (00028620) > [Render] Working set: 5530MB Page file: 11666MB Video Budget: 3380MB Video Usage: 3124MB Sys Budget: 7378MB Sys Usage: 2043MB Tex Usage: 1991MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 1481MB fps: 46.216667
+18:40:09:258 (00028620) > [Render] Working set: 4926MB Page file: 11994MB Video Budget: 3380MB Video Usage: 3106MB Sys Budget: 7378MB Sys Usage: 2392MB Tex Usage: 2393MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 1829MB fps: 51.333336
+18:41:09:267 (00028620) > [Render] Working set: 5074MB Page file: 12275MB Video Budget: 3380MB Video Usage: 3082MB Sys Budget: 7378MB Sys Usage: 2657MB Tex Usage: 2633MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 2095MB fps: 46.233337
+18:42:09:265 (00028620) > [Render] Working set: 5230MB Page file: 12399MB Video Budget: 3380MB Video Usage: 3116MB Sys Budget: 7378MB Sys Usage: 2673MB Tex Usage: 2674MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 2109MB fps: 51.450005
+18:43:09:270 (00028620) > [Render] Working set: 5293MB Page file: 12442MB Video Budget: 3380MB Video Usage: 3033MB Sys Budget: 7378MB Sys Usage: 2872MB Tex Usage: 2790MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 2308MB fps: 47.800003
+18:43:23:927 (00013392) > [Save] Request save type 0, control 0
+18:43:23:928 (00013392) > [Save] Request save type 0, control 0
+18:43:23:928 (00013392) > [Save] Request save type 0, control 0
+18:44:09:274 (00028620) > [Render] Working set: 5387MB Page file: 12547MB Video Budget: 3380MB Video Usage: 3100MB Sys Budget: 7378MB Sys Usage: 2838MB Tex Usage: 2891MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 2353MB fps: 53.633335
+18:44:14:646 (00013392) > [Save] Request save type 0, control 0
+18:44:14:646 (00013392) > [Save] Request save type 0, control 0
+18:44:14:647 (00013392) > [Save] Request save type 0, control 0
+18:44:25:321 (00013392) > [Save] Request save type 0, control 0
+18:44:28:077 (00013392) > [Save] Request save type 0, control 0
+18:44:28:078 (00013392) > [Save] Request save type 0, control 256
+18:45:09:276 (00028620) > [Render] Working set: 4432MB Page file: 12483MB Video Budget: 3380MB Video Usage: 3109MB Sys Budget: 7378MB Sys Usage: 2820MB Tex Usage: 2895MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 2249MB fps: 46.466671
+18:45:57:200 (00013392) > [Save] Request save type 0, control 0
+18:46:04:210 (00013392) > [Save] Request save type 0, control 0
+18:46:09:275 (00028620) > [Render] Working set: 4672MB Page file: 12752MB Video Budget: 3380MB Video Usage: 3090MB Sys Budget: 7378MB Sys Usage: 2990MB Tex Usage: 2984MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 2418MB fps: 48.950001
+18:47:05:698 (00013392) > [Save] Request save type 0, control 0
+18:47:05:698 (00013392) > [Save] Request save type 0, control 0
+18:47:05:698 (00013392) > [Save] Request save type 0, control 0
+18:47:05:698 (00013392) > [Save] Request save type 0, control 0
+18:47:05:699 (00013392) > [Save] Request save type 0, control 0
+18:47:05:699 (00013392) > [Save] Request save type 0, control 0
+18:47:05:699 (00013392) > [Save] Request save type 0, control 0
+18:47:05:699 (00013392) > [Save] Request save type 0, control 0
+18:47:05:699 (00013392) > [Save] Request save type 0, control 0
+18:47:05:699 (00013392) > [Save] Request save type 0, control 0
+18:47:05:699 (00013392) > [Save] Request save type 0, control 0
+18:47:05:699 (00013392) > [Save] Request save type 0, control 0
+18:47:05:699 (00013392) > [Save] Request save type 0, control 0
+18:47:05:699 (00013392) > [Save] Request save type 0, control 0
+18:47:05:699 (00013392) > [Save] Request save type 0, control 0
+18:47:05:699 (00013392) > [Save] Request save type 0, control 0
+18:47:05:699 (00013392) > [Save] Request save type 0, control 0
+18:47:05:699 (00013392) > [Save] Request save type 0, control 0
+18:47:05:699 (00013392) > [Save] Request save type 0, control 0
+18:47:05:699 (00013392) > [Save] Request save type 0, control 0
+18:47:05:699 (00013392) > [Save] Request save type 0, control 0
+18:47:05:699 (00013392) > [Save] Request save type 0, control 0
+18:47:05:699 (00013392) > [Save] Request save type 0, control 0
+18:47:05:699 (00013392) > [Save] Request save type 0, control 0
+18:47:05:699 (00013392) > [Save] Request save type 0, control 0
+18:47:05:699 (00013392) > [Save] Request save type 0, control 0
+18:47:05:699 (00013392) > [Save] Request save type 0, control 0
+18:47:05:700 (00013392) > [Save] Request save type 0, control 0
+18:47:05:700 (00013392) > [Save] Request save type 0, control 0
+18:47:05:700 (00013392) > [Save] Request save type 0, control 0
+18:47:05:700 (00013392) > [Save] Request save type 0, control 0
+18:47:05:700 (00013392) > [Save] Request save type 0, control 0
+18:47:05:700 (00013392) > [Save] Request save type 0, control 0
+18:47:09:290 (00028620) > [Render] Working set: 4603MB Page file: 12570MB Video Budget: 3380MB Video Usage: 3109MB Sys Budget: 7378MB Sys Usage: 2722MB Tex Usage: 2715MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 2150MB fps: 44.466667
+18:47:34:592 (00013392) > [Save] Request save type 0, control 0
+18:47:34:592 (00013392) > [Save] Request save type 0, control 0
+18:47:34:618 (00013392) > [Save] Request save type 0, control 0
+18:48:09:293 (00028620) > [Render] Working set: 4766MB Page file: 12612MB Video Budget: 3380MB Video Usage: 3077MB Sys Budget: 7378MB Sys Usage: 2770MB Tex Usage: 2743MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 2198MB fps: 52.816669
+18:48:28:658 (00013392) > [Save] Request save type 0, control 0
+18:48:28:658 (00013392) > [Save] Request save type 0, control 0
+18:48:28:678 (00013392) > [Save] Request save type 0, control 0
+18:49:09:297 (00028620) > [Render] Working set: 4834MB Page file: 12649MB Video Budget: 3380MB Video Usage: 3063MB Sys Budget: 7378MB Sys Usage: 2967MB Tex Usage: 2998MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 2395MB fps: 51.333336
+18:49:13:354 (00013392) > [Save] Request save type 0, control 0
+18:49:26:206 (00013392) > [Save] Request save type 0, control 0
+18:49:26:225 (00013392) > [Save] Request save type 0, control 0
+18:49:26:225 (00013392) > [Save] Request save type 0, control 0
+18:49:26:245 (00013392) > [Save] Request save type 0, control 0
+18:50:08:047 (00013392) > [Save] Request save type 0, control 0
+18:50:08:048 (00013392) > [Save] Request save type 0, control 0
+18:50:08:048 (00013392) > [Save] Request save type 0, control 0
+18:50:09:291 (00028620) > [Render] Working set: 4723MB Page file: 12615MB Video Budget: 3380MB Video Usage: 3114MB Sys Budget: 7378MB Sys Usage: 2846MB Tex Usage: 2946MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 2274MB fps: 53.700005
+18:50:20:033 (00013392) > [Save] Request save type 0, control 0
+18:50:20:033 (00013392) > [Save] Request save type 0, control 0
+18:50:20:034 (00013392) > [Save] Request save type 0, control 0
+18:50:25:535 (00013392) > [Save] Request save type 0, control 0
+18:50:37:969 (00013392) > [Save] Request save type 0, control 0
+18:50:37:969 (00013392) > [Save] Request save type 0, control 0
+18:50:37:970 (00013392) > [Save] Request save type 0, control 0
+18:51:01:146 (00013392) > [Save] Request save type 0, control 0
+18:51:01:146 (00013392) > [Save] Request save type 0, control 0
+18:51:01:146 (00013392) > [Save] Request save type 0, control 0
+18:51:01:146 (00013392) > [Save] Request save type 0, control 0
+18:51:01:147 (00013392) > [Save] Request save type 0, control 0
+18:51:01:147 (00013392) > [Save] Request save type 0, control 0
+18:51:06:027 (00013392) > [Save] Request save type 0, control 0
+18:51:06:027 (00013392) > [Save] Request save type 0, control 0
+18:51:06:027 (00013392) > [Save] Request save type 0, control 0
+18:51:06:027 (00013392) > [Save] Request save type 0, control 0
+18:51:06:028 (00013392) > [Save] Request save type 0, control 0
+18:51:06:028 (00013392) > [Save] Request save type 0, control 0
+18:51:09:297 (00028620) > [Render] Working set: 4808MB Page file: 12697MB Video Budget: 3380MB Video Usage: 3109MB Sys Budget: 7378MB Sys Usage: 2898MB Tex Usage: 2996MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 2324MB fps: 51.133335
+18:51:10:200 (00013392) > [Save] Request save type 0, control 0
+18:51:10:201 (00013392) > [Save] Request save type 0, control 0
+18:51:10:201 (00013392) > [Save] Request save type 0, control 0
+18:51:10:201 (00013392) > [Save] Request save type 0, control 0
+18:51:10:201 (00013392) > [Save] Request save type 0, control 0
+18:51:10:201 (00013392) > [Save] Request save type 0, control 0
+18:51:20:407 (00013392) > [Save] Request save type 0, control 0
+18:51:20:407 (00013392) > [Save] Request save type 0, control 0
+18:51:20:407 (00013392) > [Save] Request save type 0, control 0
+18:51:20:407 (00013392) > [Save] Request save type 0, control 0
+18:51:20:407 (00013392) > [Save] Request save type 0, control 0
+18:51:20:407 (00013392) > [Save] Request save type 0, control 0
+18:51:25:974 (00013392) > [Save] Request save type 0, control 0
+18:51:25:974 (00013392) > [Save] Request save type 0, control 0
+18:51:25:974 (00013392) > [Save] Request save type 0, control 0
+18:51:25:974 (00013392) > [Save] Request save type 0, control 0
+18:51:25:975 (00013392) > [Save] Request save type 0, control 0
+18:51:25:975 (00013392) > [Save] Request save type 0, control 0
+18:51:31:696 (00013392) > [Save] Request save type 0, control 0
+18:51:31:697 (00013392) > [Save] Request save type 0, control 0
+18:51:31:697 (00013392) > [Save] Request save type 0, control 0
+18:51:31:697 (00013392) > [Save] Request save type 0, control 0
+18:51:31:697 (00013392) > [Save] Request save type 0, control 0
+18:51:31:697 (00013392) > [Save] Request save type 0, control 0
+18:51:43:607 (00013392) > [Save] Request save type 0, control 0
+18:51:43:607 (00013392) > [Save] Request save type 0, control 0
+18:51:43:607 (00013392) > [Save] Request save type 0, control 0
+18:51:43:607 (00013392) > [Save] Request save type 0, control 0
+18:51:43:624 (00013392) > [Save] Request save type 0, control 0
+18:51:43:625 (00013392) > [Save] Request save type 0, control 0
+18:51:44:978 (00013392) > [Save] Request save type 0, control 0
+18:51:48:258 (00013392) > [Save] Request save type 0, control 0
+18:51:48:258 (00013392) > [Save] Request save type 0, control 0
+18:51:48:274 (00013392) > [Save] Request save type 0, control 0
+18:52:09:296 (00028620) > [Render] Working set: 4730MB Page file: 12559MB Video Budget: 3380MB Video Usage: 3115MB Sys Budget: 7378MB Sys Usage: 2753MB Tex Usage: 2852MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 2172MB fps: 57.550003
+18:52:14:582 (00013392) > [Input] Input language was changed.
+18:52:14:582 (00013392) > [Input] Keyboard language: "English (United States)" (id: 1033)
+18:52:14:583 (00013392) > [Input] Keyboard physical layout: "India" (id: 00004009)
+18:53:09:304 (00028620) > [Render] Working set: 4792MB Page file: 12638MB Video Budget: 3380MB Video Usage: 3077MB Sys Budget: 7378MB Sys Usage: 2866MB Tex Usage: 2988MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 2293MB fps: 57.266670
+18:53:29:463 (00013392) > [Save] Request save type 0, control 0
+18:53:29:464 (00013392) > [Save] Request save type 0, control 0
+18:53:29:464 (00013392) > [Save] Request save type 0, control 0
+18:53:33:780 (00013392) > [Save] Request save type 0, control 0
+18:53:33:780 (00013392) > [Save] Request save type 0, control 0
+18:53:33:781 (00013392) > [Save] Request save type 0, control 0
+18:53:39:549 (00013392) > [Save] Request save type 0, control 0
+18:53:50:862 (00013392) > [Save] Request save type 0, control 0
+18:53:50:862 (00013392) > [Save] Request save type 0, control 0
+18:53:50:862 (00013392) > [Save] Request save type 0, control 0
+18:54:09:329 (00028620) > [Render] Working set: 4814MB Page file: 12652MB Video Budget: 3380MB Video Usage: 3110MB Sys Budget: 7378MB Sys Usage: 2842MB Tex Usage: 2994MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 2297MB fps: 54.250004
+18:54:09:826 (00013392) > [Save] Request save type 0, control 0
+18:54:09:826 (00013392) > [Save] Request save type 0, control 0
+18:54:09:826 (00013392) > [Save] Request save type 0, control 0
+18:54:09:826 (00013392) > [Save] Request save type 0, control 0
+18:54:09:826 (00013392) > [Save] Request save type 0, control 0
+18:54:09:827 (00013392) > [Save] Request save type 0, control 0
+18:54:18:891 (00013392) > [Save] Request save type 0, control 36
+18:54:19:255 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:54:19:278 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:54:19:320 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:54:19:366 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:54:19:447 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:54:19:483 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:54:19:613 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:54:19:642 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:54:19:969 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:54:19:998 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:54:20:110 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:54:20:174 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:54:31:270 (00013392) > [Save] Request save type 0, control 36
+18:54:39:075 (00013392) > [Save] Request save type 0, control 0
+18:54:39:075 (00013392) > [Save] Request save type 0, control 0
+18:54:39:075 (00013392) > [Save] Request save type 0, control 0
+18:54:39:075 (00013392) > [Save] Request save type 0, control 0
+18:54:39:075 (00013392) > [Save] Request save type 0, control 0
+18:54:39:076 (00013392) > [Save] Request save type 0, control 0
+18:54:56:338 (00013392) > [Save] Request save type 0, control 0
+18:54:56:338 (00013392) > [Save] Request save type 0, control 0
+18:54:56:338 (00013392) > [Save] Request save type 0, control 0
+18:54:56:338 (00013392) > [Save] Request save type 0, control 0
+18:54:56:339 (00013392) > [Save] Request save type 0, control 0
+18:54:56:339 (00013392) > [Save] Request save type 0, control 0
+18:55:02:702 (00013392) > [Save] Request save type 0, control 0
+18:55:02:703 (00013392) > [Save] Request save type 0, control 0
+18:55:02:703 (00013392) > [Save] Request save type 0, control 0
+18:55:02:703 (00013392) > [Save] Request save type 0, control 0
+18:55:02:703 (00013392) > [Save] Request save type 0, control 0
+18:55:02:703 (00013392) > [Save] Request save type 0, control 0
+18:55:04:806 (00013392) > [Save] Request save type 0, control 0
+18:55:04:807 (00013392) > [Save] Request save type 0, control 0
+18:55:04:807 (00013392) > [Save] Request save type 0, control 0
+18:55:04:807 (00013392) > [Save] Request save type 0, control 0
+18:55:04:807 (00013392) > [Save] Request save type 0, control 0
+18:55:04:807 (00013392) > [Save] Request save type 0, control 0
+18:55:09:328 (00028620) > [Render] Working set: 3771MB Page file: 11729MB Video Budget: 3380MB Video Usage: 3233MB Sys Budget: 7378MB Sys Usage: 1836MB Tex Usage: 1871MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 1263MB fps: 53.866669
+18:55:11:914 (00013392) > [Save] Request save type 0, control 36
+18:55:12:097 (00027884) > [Audio] Device (re)initialized 0x0 'Speakers (Realtek(R) Audio)'
+18:55:34:121 (00013392) > [Save] Request save type 0, control 0
+18:55:34:121 (00013392) > [Save] Request save type 0, control 0
+18:55:34:121 (00013392) > [Save] Request save type 0, control 0
+18:55:34:121 (00013392) > [Save] Request save type 0, control 0
+18:55:34:121 (00013392) > [Save] Request save type 0, control 0
+18:55:34:121 (00013392) > [Save] Request save type 0, control 0
+18:55:44:982 (00013392) > [Save] Request save type 0, control 0
+18:55:44:983 (00013392) > [Save] Request save type 0, control 0
+18:55:44:983 (00013392) > [Save] Request save type 0, control 0
+18:55:44:983 (00013392) > [Save] Request save type 0, control 0
+18:55:44:983 (00013392) > [Save] Request save type 0, control 0
+18:55:44:983 (00013392) > [Save] Request save type 0, control 0
+18:56:09:329 (00028620) > [Render] Working set: 3952MB Page file: 11865MB Video Budget: 3380MB Video Usage: 3197MB Sys Budget: 7378MB Sys Usage: 2017MB Tex Usage: 2164MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 1444MB fps: 56.950005
+18:56:22:502 (00013392) > [Save] Request save type 0, control 0
+18:56:22:503 (00013392) > [Save] Request save type 0, control 0
+18:56:22:503 (00013392) > [Save] Request save type 0, control 0
+18:56:22:503 (00013392) > [Save] Request save type 0, control 0
+18:56:22:503 (00013392) > [Save] Request save type 0, control 0
+18:56:22:503 (00013392) > [Save] Request save type 0, control 0
+18:56:52:465 (00013392) > [Save] Request save type 0, control 0
+18:56:52:465 (00013392) > [Save] Request save type 0, control 0
+18:56:52:465 (00013392) > [Save] Request save type 0, control 0
+18:56:52:465 (00013392) > [Save] Request save type 0, control 0
+18:56:52:465 (00013392) > [Save] Request save type 0, control 0
+18:56:52:466 (00013392) > [Save] Request save type 0, control 0
+18:56:54:502 (00013392) > [Save] Request save type 0, control 0
+18:56:57:834 (00013392) > [Save] Request save type 0, control 0
+18:56:57:834 (00013392) > [Save] Request save type 0, control 0
+18:56:57:845 (00013392) > [Save] Request save type 0, control 0
+18:57:09:328 (00028620) > [Render] Working set: 4418MB Page file: 12298MB Video Budget: 3380MB Video Usage: 3092MB Sys Budget: 7378MB Sys Usage: 2529MB Tex Usage: 2678MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 1956MB fps: 55.966671
+18:58:09:337 (00028620) > [Render] Working set: 4653MB Page file: 12500MB Video Budget: 3380MB Video Usage: 3112MB Sys Budget: 7378MB Sys Usage: 2722MB Tex Usage: 2879MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 2131MB fps: 58.150002
+18:58:16:715 (00013392) > [Save] Request save type 0, control 0
+18:58:16:715 (00013392) > [Save] Request save type 0, control 0
+18:58:16:716 (00013392) > [Save] Request save type 0, control 0
+18:58:28:669 (00013392) > [Save] Request save type 0, control 0
+18:58:28:669 (00013392) > [Save] Request save type 0, control 0
+18:58:28:670 (00013392) > [Save] Request save type 0, control 0
+18:58:32:367 (00013392) > [Save] Request save type 0, control 0
+18:58:35:919 (00013392) > [Save] Request save type 0, control 0
+18:58:35:919 (00013392) > [Save] Request save type 0, control 0
+18:58:35:919 (00013392) > [Save] Request save type 0, control 0
+18:58:49:632 (00013392) > [Save] Request save type 0, control 0
+18:58:49:632 (00013392) > [Save] Request save type 0, control 0
+18:58:49:632 (00013392) > [Save] Request save type 0, control 0
+18:59:09:350 (00028620) > [Render] Working set: 4782MB Page file: 12662MB Video Budget: 3380MB Video Usage: 3104MB Sys Budget: 7378MB Sys Usage: 2869MB Tex Usage: 2980MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 2296MB fps: 57.166668
+18:59:37:909 (00013392) > [Save] Request save type 0, control 36
+18:59:38:394 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:59:38:475 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:59:38:495 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:59:38:506 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:59:38:741 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:59:38:762 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+18:59:38:807 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+19:00:09:347 (00028620) > [Render] Working set: 3714MB Page file: 11680MB Video Budget: 3380MB Video Usage: 3266MB Sys Budget: 7378MB Sys Usage: 1735MB Tex Usage: 1845MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 1163MB fps: 58.766670
+19:00:21:386 (00013392) > [Save] Request save type 0, control 0
+19:00:21:386 (00013392) > [Save] Request save type 0, control 0
+19:00:21:408 (00013392) > [Save] Request save type 0, control 0
+19:00:35:872 (00013392) > [Save] Request save type 0, control 0
+19:00:35:872 (00013392) > [Save] Request save type 0, control 0
+19:00:35:872 (00013392) > [Save] Request save type 0, control 0
+19:00:39:508 (00013392) > [Input] Input language was changed.
+19:00:39:510 (00013392) > [Input] Keyboard language: "English (India)" (id: 16393)
+19:00:39:510 (00013392) > [Input] Keyboard physical layout: "India" (id: 00004009)
+19:01:09:340 (00028620) > [Render] Working set: 4254MB Page file: 12191MB Video Budget: 3380MB Video Usage: 3177MB Sys Budget: 7378MB Sys Usage: 2326MB Tex Usage: 2523MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 1753MB fps: 59.216671
+19:02:01:849 (00013392) > [Save] Request save type 0, control 36
+19:02:02:336 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+19:02:02:400 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+19:02:02:425 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+19:02:02:446 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+19:02:02:697 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+19:02:02:712 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+19:02:02:746 (00020028) > [NxUpscaler] Failed to evaluate DLSS. Result:Unknown
+19:02:03:869 (00027884) > [Audio] Device (re)initialized 0x0 'Speakers (Realtek(R) Audio)'
+19:02:09:401 (00028620) > [Render] Working set: 3405MB Page file: 11510MB Video Budget: 3380MB Video Usage: 3331MB Sys Budget: 7378MB Sys Usage: 1455MB Tex Usage: 1557MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 913MB fps: 53.066669
+19:02:14:251 (00027884) > [Audio] Device (re)initialized 0x0 'Speakers (Realtek(R) Audio)'
+19:02:14:354 (00027800) > [DXGI] Window occluded. Skipping present
+19:34:25:347 (00028620) > [Render] Working set: 6188MB Page file: 11627MB Video Budget: 3380MB Video Usage: 3336MB Sys Budget: 7378MB Sys Usage: 1550MB Tex Usage: 1688MB Tex Budget: 3000MB BVH heaps: 80MB BVH size: 77MB Demoted: 1018MB fps: 1.466667
+19:34:25:355 (00027800) > [DXGI] Present test failed with HRESULT 0x887a0005
+19:34:25:356 (00027800) > [Render] Node 0 memory stats
+19:34:25:360 (00027800) > [Render] VMEM Budget: 3380 MB
+19:34:25:360 (00027800) > [Render] VMEM Available: 38 MB
+19:34:25:360 (00027800) > [Render] SMEM Budget: 7378 MB
+19:34:25:360 (00027800) > [Render] SMEM Available: 5777 MB
+19:34:25:360 (00027800) > [D3D] ERROR! Device removed detected (0x887A0006: DXGI_ERROR_DEVICE_HUNG)
+19:34:25:364 (00017148) > [D3D] m_Device->CreateHeap(&desc, __uuidof(**(&dx12_heap)), IID_PPV_ARGS_Helper(&dx12_heap)) failed with HRESULT 2289696773 (0x887a0005)
+19:34:25:373 (00027884) > [Audio] Device (re)initialized 0x0 'Speakers (Realtek(R) Audio)'
+19:34:31:490 (00027800) > [Crash] Memory statistics:
+19:34:31:490 (00027800) > [Crash]   Total RAM = 15.7 GB (16071 MB)
+19:34:31:490 (00027800) > [Crash]   Avail RAM = 0.8 GB (784 MB)
+19:34:31:490 (00027800) > [Crash]   Total virtual memory = 131072.0 GB (134217727 MB)
+19:34:31:490 (00027800) > [Crash]   Avail virtual memory = 131021.4 GB (134165918 MB)
+19:34:31:490 (00027800) > [Crash]   Total page file = 22.9 GB (23495 MB)
+19:34:31:490 (00027800) > [Crash]   Avail page file = 1.6 GB (1682 MB)
+19:34:31:490 (00027800) > [Crash] Unhandled exception at address 0x00000000631c9df0 (code: 0xc0000005): "Access violation"
+19:34:32:529 (00027800) > [Crash] Created minidump at "C:\Users\athit\OneDrive\Documents\Marvel's Spider-Man Remastered\Marvel's Spider-Man Remastered-v2.1012.0.0 2025-12-26-19-34-31.mdmp".
